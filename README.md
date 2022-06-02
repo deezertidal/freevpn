@@ -5,10 +5,11 @@
 
 请合理使用，非必要不测速，不下载。流量不够用的可以多注册几个，用得好可以考虑付费，推荐月付。
 切忌公开订阅链接，不管你有多少TB流量，一经公开，一天无。
+没写推荐的 不是因为不好，是我没时间一个个试过来。可以自己试试
 
 
 https://t.me/welink345bot?start=15fEi4Y5
-telegram注册，通过签到积分可长期免费。32G/月。推荐。貌似暂停免费了2022.6.2
+telegram注册，通过签到积分可长期免费。32G/月。推荐。貌似暂停免费了2022.6.2。
 
 https://t.me/qdyun_bot?start=0vmakcm1
 需telegram注册，需邀请他人注册。永久免费。开号之后大概300G/月
@@ -17,7 +18,7 @@ https://airport.oracleusa.ml/auth/register?code=pGmN
 有免费套餐，30G/5天，可自动重置。推荐
 
 https://www.naiun.cc/#/register?code=ykMQeJb3
-免费优惠码QLDK324，可长期。120G/月。推荐
+免费优惠码QLDK324，可长期。120G/月。推荐。优惠码可能这几天就失效2022/6/2
 
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k
 优惠码BPPPPPP，1T/月，可长期。失效，随时回归
