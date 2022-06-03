@@ -69,7 +69,7 @@ https://www.netop.me/
 无期限，100G流量用完可重置，推荐。2022.6.1
 
 https://t.me/shenseven_bot?start=de2AZAcC
-需telegram注册，注册流程太繁琐,但速度挺快，自带多个免流节点。不怕麻烦的，推荐。2022.6.2
+需telegram注册，500G/月，自带多个免流节点。5.5元全额抵扣码shenseven。推荐2022/6/3
 
 https://keko.club/#/register?code=kFksSEJd
 40G/月 可免费重置。2022.6.1
