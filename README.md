@@ -78,7 +78,3 @@ https://www.youzi.pro/#/register?code=8TuKBnAV
 20G/月 ，1元抵扣优惠码MPCRzukl，推荐
 
 重度用户请购买付费订阅，以上机场也有付费服务，推荐月付。
-
-还没有ios端上网工具的
-推荐这个免费shadowrocket分享https://youtu.be/J1H4u1S5M0o需要仔细看视频。
-如果想省心长期 推荐这个付费购买各类apps：https://afdian.net/@lifan/plan
