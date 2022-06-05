@@ -1,6 +1,8 @@
 # freevpn
 免费公益机场分享
 
+还没有小火箭的ios用户，可以看一下这里https://github.com/shadycn/freevpn/blob/main/小火箭账号分享.docx
+
 更新于2022.6.5
 
 请合理使用，流量不够用的可以多注册几个，用得好可以考虑付费，推荐月付。  
