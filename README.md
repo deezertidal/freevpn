@@ -222,7 +222,7 @@ https://www.galaxy-cloud.com/#/register?code=kbCoo1l6
 
 
 
-http://52.alisa.cloud/#/register?code=wVhlO11X
+http://52.alisa.cloud/#/register?code=XtJmqoFy
 
 免费：每月重置50G流量，为期一年。推荐
 
