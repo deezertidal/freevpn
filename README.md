@@ -8,6 +8,7 @@
 没写推荐的 不是因为不好，是我没时间一个个试过来。可以自己试试
 
 
+
 https://t.me/welink345bot?start=15fEi4Y5
 
 免费：telegram注册，通过签到积分可长期免费。32G/月。推荐。貌似暂停免费了2022.6.2。
@@ -154,7 +155,7 @@ https://www.netop.me/
 
 https://t.me/shenseven_bot?start=de2AZAcC
 
-免费：需telegram注册，500G/月，自带多个免流节点。5.5元全额抵扣码shenseven。推荐2022/6/3
+免费：需telegram注册，500G/月，自带多个免流节点。5.5元全额抵扣码shenseven。含免流节点，推荐2022/6/3
 
 最低付费套餐：70元/48.8T/年（不限设备，不限速，年付，谨慎购买）
 
@@ -167,6 +168,8 @@ https://keko.club/#/register?code=kFksSEJd
 最低付费套餐：17元/115G/月（不限终端，不限速，解锁流媒体）
 
 
+
+2022.6.5新增：
 
 https://www.youzi.pro/#/register?code=8TuKBnAV
 
@@ -195,3 +198,43 @@ https://jc.hgdbk.xyz/#/register?code=aMbMoAzi
 免费：60G/月 可重复购买0元套餐
 
 最低付费套餐：无
+
+
+
+https://www.cnnts.tk/#/register?code=GtUzYfo6
+
+免费：20G无时限 一个账号只能购买一次
+
+
+
+https://ybdml.cc/auth/register?code=nXvQ
+
+免费：1G 免费一个月（倍率0.01，0.001，相当于几百G）
+
+最低付费套餐：5元/150G/月（2终端，解锁流媒体，含免流节点）
+
+
+http://greatdeal.life/auth/register?code=lIBA
+
+免费：100G一年
+
+最低付费套餐：无
+
+
+
+https://nyg.aikala.shop/#/register?code=D1yRed1F
+
+免费：有0元无限购买套餐，200G/月
+
+最低付费套餐：6.6元/1024G/月（不限终端，不限速）
+
+
+
+https://pdjc.cc/index.php#/register?code=uZAqpr81
+
+免费：999元全额抵扣码：我要白嫖。一次性1024G不限时。
+
+最低付费套餐：9.9元/90G/月（3终端）
+
+
+
