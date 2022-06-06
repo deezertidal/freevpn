@@ -1,7 +1,12 @@
 # freevpn
 免费公益机场分享
 
-还没有小火箭的ios用户，可以看一下这里https://github.com/shadycn/freevpn/blob/main/小火箭账号分享.docx
+还没有小火箭的ios用户，发邮件至freedeezertidal@outlook.com索取，邮件主题统一写shadowrocket。  
+账号不保证实时有效，下载成功后随意打赏，全靠自觉。
+
+用前必读：务必从app store登陆账号 不要从icloud登陆，否则有琐机风险，登陆app store后 弹出安全选项 选择其他 然后点不升级。进入已购项目 搜索shadowrocket 下载安装，并及时退出账号。切勿绑定自己手机 这个ID你拿到了也会锁 还是最后还是物归原主 或者大家以后都别用了 损人不利己。
+
+![image](https://github.com/shadycn/freevpn/blob/main/reward.jpg)  
 
 更新于2022.6.5
 
