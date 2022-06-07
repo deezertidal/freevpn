@@ -7,7 +7,8 @@
 
 账号不保证实时有效，下载成功后随意打赏，全靠自觉。
 
-用前必读：务必从app store登陆账号 不要从icloud登陆，否则有琐机风险，登陆app store后 弹出安全选项 选择其他 然后点不升级。进入已购项目 搜索shadowrocket 下载安装，并及时退出账号。切勿绑定自己手机 这个ID你拿到了也会锁 还是最后还是物归原主 或者大家以后都别用了 损人不利己。
+用前必读：务必从app store登陆账号 不要从icloud登陆，否则有琐机风险，登陆app store后 弹出安全选项 选择其他 然后点不升级。进入已购项目 搜索shadowrocket 下载安装，并及时退出账号。切勿绑定自己手机 这个ID你拿到了也会锁 还是最后还是物归原主 或者大家以后都别用了 损人不利己。  
+目前20几个索取，0打赏，打算停了 或者回复时间可能要等很久，不经常看邮箱了，随缘发。2022.6.7
 
 ![image](https://github.com/shadycn/freevpn/blob/main/reward.jpg)  
 
@@ -17,7 +18,11 @@
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
 
 
-2022.6.5新增⬇  
+https://t.me/welink345bot?start=15fEi4Y5
+
+免费：telegram注册，通过签到积分可长期免费。32G/月。暂停免费了2022.6.2。
+
+最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，7天无理由退款）
 
 
 https://www.youzi.pro/#/register?code=8TuKBnAV
@@ -110,13 +115,7 @@ https://yyds.emovpn.top/#/register?code=7KLxhYOS
 
 
 
-2022.5⬇
 
-https://t.me/welink345bot?start=15fEi4Y5
-
-免费：telegram注册，通过签到积分可长期免费。32G/月。暂停免费了2022.6.2。
-
-最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，7天无理由退款）
 
 
 
