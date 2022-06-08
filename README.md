@@ -18,7 +18,11 @@ https://portal.getfree.cloud/auth/register?code=KsxH
 免费：靠签到可增加流量跟账户时效，注册第二天才能使用节点  
 最低付费套餐：无
 ****
+https://ysbzc.one/#/register?code=ZfpvDLlW  
+免费：购买永久0元套餐，1G流量，但是节点不消耗流量，等于无限，速度只能满足基本需求  
+最低付费套餐：12元/200G/永久（不限速，首购9折优惠码:YSBZCFAST）
 
+****
 https://www.youzi.pro/#/register?code=8TuKBnAV
 
 免费：20G/月 ，1元抵扣优惠码MPCRzukl
