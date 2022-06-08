@@ -2,18 +2,22 @@
 免费公益机场分享
 
 
-更新于2022.6.5
+更新于2022.6.8
 
 请合理使用，流量不够用的可以多注册几个，用得好可以考虑付费，推荐月付。  
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
-
-
+****
 https://t.me/welink345bot?start=15fEi4Y5
 
 免费：telegram注册，通过签到积分可长期免费。32G/月。
 
-最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，7天无理由退款）
+最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，★7天无理由退款★）
+****
+https://portal.getfree.cloud/auth/register?code=KsxH
 
+免费：靠签到可增加流量跟账户时效，注册第二天才能使用节点  
+最低付费套餐：无
+****
 
 https://www.youzi.pro/#/register?code=8TuKBnAV
 
@@ -21,7 +25,7 @@ https://www.youzi.pro/#/register?code=8TuKBnAV
 
 最低付费套餐：3元/80G/月（可参加TG群抽奖免费获取，5终端，不限速）
 
-
+****
 
  
 https://2220.it/register?aff=hoWWXZKVJs
@@ -30,7 +34,7 @@ https://2220.it/register?aff=hoWWXZKVJs
 
 最低付费套餐：5元/100G/10年（30终端，1Gbps）
 
-
+****
 
 https://www.elkcloud.cc/auth/register?code=wnkG
 
@@ -38,7 +42,7 @@ https://www.elkcloud.cc/auth/register?code=wnkG
 
 最低付费套餐：0.5元/30G/月
 
-
+****
 
 https://jc.hgdbk.xyz/#/register?code=aMbMoAzi
 
@@ -47,13 +51,13 @@ https://jc.hgdbk.xyz/#/register?code=aMbMoAzi
 最低付费套餐：无
 
 
-
+****
 https://www.cnnts.tk/#/register?code=GtUzYfo6
 
 免费：20G无时限 一个账号只能购买一次
 
 最低付费套餐：无
-
+****
 
 
 https://ybdml.cc/auth/register?code=nXvQ
@@ -62,7 +66,7 @@ https://ybdml.cc/auth/register?code=nXvQ
 
 最低付费套餐：5元/150G/月（2终端，解锁流媒体，含免流节点）
 
-
+****
 
 http://greatdeal.life/auth/register?code=lIBA
 
@@ -70,14 +74,14 @@ http://greatdeal.life/auth/register?code=lIBA
 
 最低付费套餐：无
 
-
+****
 
 https://nyg.aikala.shop/#/register?code=D1yRed1F
 
 免费：有0元无限购买套餐，200G/月
 
 最低付费套餐：6.6元/1024G/月（不限终端，不限速）
-
+****
 
 
 https://pdjc.cc/index.php#/register?code=uZAqpr81
@@ -86,7 +90,7 @@ https://pdjc.cc/index.php#/register?code=uZAqpr81
 
 最低付费套餐：9.9元/90G/月（3终端）
 
-
+****
 
 http://yun.moonfree.top/#/register?code=qgdKwQjz
 
@@ -94,7 +98,7 @@ http://yun.moonfree.top/#/register?code=qgdKwQjz
 
 最低付费套餐：0.9元/150G/月
 
-
+****
 
 https://yyds.emovpn.top/#/register?code=7KLxhYOS
 
@@ -103,7 +107,7 @@ https://yyds.emovpn.top/#/register?code=7KLxhYOS
 最低付费套餐：5元/1000G/月
 
 
-
+****
 
 
 
@@ -117,30 +121,30 @@ https://t.me/qdyun_bot?start=0vmakcm1
 最低付费套餐：无
                   
 
-
+****
 https://airport.oracleusa.ml/auth/register?code=pGmN
 
 免费：有免费套餐，30G/5天，可自动重置。
 
 最低付费套餐：5元/200G/月（5终端，200Mbps）
 
-
+****
 
 https://www.naiun.cc/#/register?code=ykMQeJb3
 
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2
 
 最低付费套餐：16元/288G/月（5终端，不限速， 解锁流媒体）
-
+****
 
 
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k
 
-免费：优惠码BPPPPPP，1T/月，可长期。已失效，后续可能回归
+免费：优惠码BPPPPPP，1T/月，可长期。已失效，后续可能回归。应该又有免费套餐了，可以注册试试
 
 最低付费套餐：1.1元/500G/月（3终端，流媒体解锁中）
 
-
+****
 
 https://bpyun.live/auth/register?code=SQMr
 
@@ -148,7 +152,7 @@ https://bpyun.live/auth/register?code=SQMr
 
 最低付费套餐：1.99元/800G/月（2终端，不限速）
 
-
+****
 
 https://jsmao.net/auth/register?code=XIpX
 
@@ -156,7 +160,7 @@ https://jsmao.net/auth/register?code=XIpX
 
 最低付费套餐：15元/1024G/月（3终端，不限速）
 
-
+****
 
 https://portx.cc/auth/register?code=pgEf
 
@@ -164,7 +168,7 @@ https://portx.cc/auth/register?code=pgEf
 
 最低付费套餐：5元/50G/月（5终端，100Mbps）
 
-
+****
 
 https://ikuuu.co/auth/register?code=uLdk
 
@@ -172,7 +176,7 @@ https://ikuuu.co/auth/register?code=uLdk
 
 最低付费套餐：10元/300G/月
 
-
+****
 
 https://sub.ssrsub.com/#/register?code=cgoqnEpe
 
@@ -181,14 +185,14 @@ https://sub.ssrsub.com/#/register?code=cgoqnEpe
 最低付费套餐：无
 
 
-
+****
 https://love.mimon.cc/#/register?code=R8vS79L3
 
 免费：可购买0元套餐，50G/月
 
 最低付费套餐：5元/100G（解锁流媒体，针对运营商优化）
 
-
+****
 
 https://ssrr.xyz/#/register?code=tWnDeJwR
 
@@ -196,7 +200,7 @@ https://ssrr.xyz/#/register?code=tWnDeJwR
 
 最低付费套餐：无
 
-
+****
 
 https://www.paopao.dog/index.php#/register?code=nnaNrj7S
 
@@ -204,7 +208,7 @@ https://www.paopao.dog/index.php#/register?code=nnaNrj7S
 
 最低付费套餐：9.88元/138G/月（不限终端，不限速，解锁流媒体）
 
-
+****
 
 https://crushs.top/#/register?code=mt4muj1B
 
@@ -212,23 +216,23 @@ https://crushs.top/#/register?code=mt4muj1B
 
 最低付费套餐：2元/400G/月（不限终端，不限速）
 
-
+****
 
 https://www.galaxy-cloud.com/#/register?code=kbCoo1l6
 
 免费：永久，流量可免费重置
 
 最低付费套餐：20元/200G/月（解锁流媒体）
+****
 
 
-
-http://52.alisa.cloud/#/register?code=XtJmqoFy
+http://52.alisa.cloud/#/register?code=hdp8n4Xm
 
 免费：每月重置50G流量，为期一年。
 
 最低付费套餐：4元/500G/月
 
-
+****
 
 https://xstars.top/#/register?code=FWsEGnFh
 
@@ -236,7 +240,7 @@ https://xstars.top/#/register?code=FWsEGnFh
 
 最低付费套餐：8元/100G/月
 
-
+****
 
 https://www.netop.me/
 
@@ -244,14 +248,14 @@ https://www.netop.me/
 
 最低付费套餐：无
 
-
+****
 
 https://t.me/shenseven_bot?start=de2AZAcC
 
 免费：需telegram注册，500G/月，含多个免流节点。5.5元全额抵扣码shenseven。
 
 最低付费套餐：70元/48.8T/年（不限设备，不限速，年付，谨慎购买）
-
+****
 
 
 https://keko.club/#/register?code=kFksSEJd
@@ -259,3 +263,4 @@ https://keko.club/#/register?code=kFksSEJd
 免费：40G/月 可免费重置。
 
 最低付费套餐：17元/115G/月（不限终端，不限速，解锁流媒体）
+****
