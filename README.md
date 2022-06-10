@@ -1,8 +1,7 @@
 # freevpn
 免费公益机场分享
 
-
-更新于2022.6.8
+****
 
 请合理使用，流量不够用的可以多注册几个，用得好可以考虑付费，推荐月付。  
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
@@ -48,9 +47,9 @@ https://www.elkcloud.cc/auth/register?code=wnkG
 
 ****
 
-https://jc.hgdbk.xyz/#/register?code=aMbMoAzi
+https://jc.hgdbk.xyz/#/register?code=zE6MNVSP
 
-免费：60G/月 可重复购买0元套餐
+免费：100G/月 为期一年 6元全额抵扣码HGYYDS
 
 最低付费套餐：无
 
@@ -144,9 +143,9 @@ https://www.naiun.cc/#/register?code=ykMQeJb3
 
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k
 
-免费：优惠码BPPPPPP，1T/月，可长期。已失效，后续可能回归。应该又有免费套餐了，可以注册试试
+免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试
 
-最低付费套餐：1.1元/500G/月（3终端，流媒体解锁中）
+最低付费套餐：1.1元/500G/月（3终端，解锁流媒体）
 
 ****
 
