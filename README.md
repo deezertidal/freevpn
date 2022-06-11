@@ -51,7 +51,7 @@ https://www.elkcloud.cc/auth/register?code=wnkG
 
 https://jc.hgdbk.xyz/#/register?code=zE6MNVSP
 
-免费：100G/月 为期一年 6元全额抵扣码HGYYDS
+免费：100G/月 为期一年 6元全额抵扣码HGYYDS(疑似跑路）
 
 最低付费套餐：无
 
@@ -135,7 +135,7 @@ https://airport.oracleusa.ml/auth/register?code=pGmN
 
 ****
 
-https://www.naiun.cc/#/register?code=ykMQeJb3
+https://www.naiun.cc/#/register?code=JBstTvXF
 
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2
 
