@@ -7,6 +7,7 @@
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
 ****
 排名不分优劣，免费与付费有质的区别，不要对免费期待过高  
+
 ****
 https://t.me/welink345bot?start=15fEi4Y5
 
@@ -129,7 +130,7 @@ https://t.me/qdyun_bot?start=0vmakcm1
 ****
 https://airport.oracleusa.ml/auth/register?code=pGmN
 
-免费：有免费套餐，30G/5天，可自动重置。
+免费：有免费套餐，30G/5天，可自动重置。又一家疑似跑路2022.6.12
 
 最低付费套餐：5元/200G/月（5终端，200Mbps）
 
