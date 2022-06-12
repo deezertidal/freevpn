@@ -153,3 +153,7 @@ https://zou666.vip/#/register?code=tKBNCq83
 https://dingzi.dingzige.ga/#/register?code=GCYtIio2  
 免费：0元 230G 可重复购买  
 最低付费套餐：无
+****
+https://panel.vp0.cc/#/register?code=DZ9Ek9U5  
+免费：邀请好友可获得永久流量  
+30元/120G/永久
