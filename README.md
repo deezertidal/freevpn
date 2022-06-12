@@ -12,7 +12,7 @@ https://t.me/welink345bot?start=15fEi4Y5
 ****
 https://www.naiun.cc/#/register?code=JBstTvXF  
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2  
-最低付费套餐：16元/288G/月（5终端，不限速， 解锁流媒体）
+最低付费套餐：12元/120G/月（8折优惠码NY8Z。5终端，不限速， 解锁流媒体）
 ****
 https://yyds.emovpn.top/#/register?code=7KLxhYOS  
 免费：300G/月。一元全额抵扣码：pAuz4Pel  
