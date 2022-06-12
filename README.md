@@ -155,5 +155,5 @@ https://dingzi.dingzige.ga/#/register?code=GCYtIio2
 最低付费套餐：无
 ****
 https://panel.vp0.cc/#/register?code=DZ9Ek9U5  
-免费：邀请好友可获得永久流量  
-30元/120G/永久
+免费：邀请注册可获得永久流量  
+最低付费套餐：30元/120G/永久，同样可通过邀请获得永久流量
