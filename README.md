@@ -51,7 +51,7 @@ https://www.elkcloud.cc/auth/register?code=wnkG
 最低付费套餐：0.5元/30G/月
 ****
 https://jc.hgdbk.xyz/#/register?code=zE6MNVSP  
-免费：100G/月 为期一年 6元全额抵扣码HGYYDS(疑似跑路）  (已复活2022/06/13）
+免费：100G/月 为期一年 6元全额抵扣码HGYYDS(疑似跑路）  (已复活2022/06/13）  
 最低付费套餐：无
 ****
 https://www.cnnts.tk/#/register?code=GtUzYfo6  
