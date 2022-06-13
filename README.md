@@ -51,14 +51,14 @@ https://www.elkcloud.cc/auth/register?code=wnkG
 最低付费套餐：0.5元/30G/月
 ****
 https://jc.hgdbk.xyz/#/register?code=zE6MNVSP  
-免费：100G/月 为期一年 6元全额抵扣码HGYYDS(疑似跑路）  
+免费：100G/月 为期一年 6元全额抵扣码HGYYDS(疑似跑路）  (已复活2022/06/13）
 最低付费套餐：无
 ****
 https://www.cnnts.tk/#/register?code=GtUzYfo6  
 免费：20G无时限 一个账号只能购买一次  
 最低付费套餐：无
 ****
-https://ybdml.cc/auth/register?code=nXvQ  
+https://ybdml.cc/auth/register?code=Gc3R  
 免费：1G 免费一个月（倍率0.01，0.001，相当于几百G）  
 最低付费套餐：5元/150G/月（2终端，解锁流媒体，含免流节点）
 ****
