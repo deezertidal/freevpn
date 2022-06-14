@@ -14,6 +14,10 @@ https://www.naiun.cc/#/register?code=JBstTvXF
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2  
 最低付费套餐：12元/120G/月（8折优惠码NY8Z。5终端，不限速， 解锁流媒体）
 ****
+https://xn--4gq62f52gdss.com/#/register?code=xKN6katp  
+免费：无  
+最低付费套餐：9.6元/年（0.8元/月），每月重置100G流量
+****
 https://yyds.emovpn.top/#/register?code=7KLxhYOS  
 免费：300G/月。一元全额抵扣码：pAuz4Pel  
 最低付费套餐：5元/1000G/月
@@ -157,3 +161,4 @@ https://dingzi.dingzige.ga/#/register?code=GCYtIio2
 https://panel.vp0.cc/#/register?code=DZ9Ek9U5  
 免费：邀请注册可获得永久流量  
 最低付费套餐：30元/120G/永久，同样可通过邀请获得永久流量
+****
