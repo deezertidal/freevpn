@@ -162,3 +162,6 @@ https://panel.vp0.cc/#/register?code=DZ9Ek9U5
 免费：邀请注册可获得永久流量  
 最低付费套餐：30元/120G/永久，同样可通过邀请获得永久流量
 ****
+https://www.freedog.me/auth/register?code=TD22  
+免费：0元/100G/月  
+最低付费套餐：4.9元/200G/月
