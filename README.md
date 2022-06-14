@@ -1,6 +1,9 @@
 # freevpn
 免费公益机场分享
 ****
+https://xiaohuojian8.com/aff/2526.html  
+ios端上网工具店铺。含Shadowrocket，QuantumultX等
+****
 请合理使用，流量不够用的可以多注册几个，用得好可以考虑付费，推荐月付。  
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
 ****
@@ -166,6 +169,3 @@ https://www.freedog.me/auth/register?code=TD22
 免费：0元/100G/月  
 最低付费套餐：4.9元/200G/月
 ****
-****
-https://xiaohuojian8.com/aff/2526.html  
-ios端上网工具店铺。含Shadowrocket，QuantumultX等
