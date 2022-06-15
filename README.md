@@ -23,7 +23,7 @@ https://yyds.emovpn.top/#/register?code=7KLxhYOS
 最低付费套餐：5元/1000G/月
 ****
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k  
-免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
+免费：优惠码PPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
 最低付费套餐：1.1元/500G/月（3终端，解锁流媒体）
 ****
 https://www.youzi.pro/#/register?code=8TuKBnAV  
@@ -54,10 +54,6 @@ https://www.elkcloud.cc/auth/register?code=wnkG
 免费：无  
 最低付费套餐：0.5元/30G/月
 ****
-https://jc.hgdbk.xyz/#/register?code=zE6MNVSP  
-免费：100G/月 为期一年 6元全额抵扣码HGYYDS(疑似跑路）  (已复活2022/06/13）  
-最低付费套餐：无
-****
 https://www.cnnts.tk/#/register?code=GtUzYfo6  
 免费：20G无时限 一个账号只能购买一次  
 最低付费套餐：无
@@ -82,14 +78,6 @@ http://yun.moonfree.top/#/register?code=qgdKwQjz
 免费：已取消  
 最低付费套餐：0.9元/150G/月
 ****
-https://airport.oracleusa.ml/auth/register?code=pGmN  
-免费：有免费套餐，30G/5天，可自动重置。又一家疑似跑路2022.6.12  
-最低付费套餐：5元/200G/月（5终端，200Mbps）
-****
-https://bpyun.live/auth/register?code=SQMr  
-免费：100G永久，可签到领流量  
-最低付费套餐：1.99元/800G/月（2终端，不限速）
-****
 https://jsmao.net/auth/register?code=XIpX  
 免费：30天100G，不可长期  
 最低付费套餐：15元/1024G/月（3终端，不限速）  
@@ -97,14 +85,6 @@ https://jsmao.net/auth/register?code=XIpX
 https://portx.cc/auth/register?code=pgEf  
 免费：半年10G，可签到领流量  
 最低付费套餐：5元/50G/月（5终端，100Mbps）
-****
-https://ikuuu.co/auth/register?code=uLdk  
-免费：50G永久，可签到领流量  
-最低付费套餐：10元/300G/月
-****
-https://sub.ssrsub.com/#/register?code=cgoqnEpe  
-免费：优惠码ssrsub-999。3个月50G  
-最低付费套餐：无
 ****
 https://love.mimon.cc/#/register?code=R8vS79L3  
 免费：可购买0元套餐，50G/月  
@@ -134,10 +114,6 @@ https://xstars.top/#/register?code=FWsEGnFh
 免费：每月重置100G流量，可免费续期。  
 最低付费套餐：8元/100G/月
 ****
-https://www.netop.me/  
-免费：无期限，100G流量用完可重置  
-最低付费套餐：无
-****
 https://keko.club/#/register?code=kFksSEJd  
 免费：40G/月 可免费重置。  
 最低付费套餐：17元/115G/月（不限终端，不限速，解锁流媒体）
@@ -153,10 +129,6 @@ https://kuaiqiangshou.xyz/#/register?code=TQxbG8hc
 https://zou666.vip/#/register?code=tKBNCq83  
 免费：50G一月  
 最低付费套餐：7.99元/88G/月（不限终端，不限速）
-****
-https://dingzi.dingzige.ga/#/register?code=GCYtIio2  
-免费：0元 230G 可重复购买  
-最低付费套餐：无
 ****
 https://panel.vp0.cc/#/register?code=DZ9Ek9U5  
 免费：邀请注册可获得永久流量  
