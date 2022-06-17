@@ -8,7 +8,8 @@
 ****
 https://t.me/welink345bot?start=15fEi4Y5  
 免费：telegram注册，通过签到积分可长期免费。32G/月。  
-最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，★7天无理由退款★）
+最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，★7天无理由退款★）  
+★推荐★
 ****
 https://www.naiun.cc/#/register?code=JBstTvXF  
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2  
@@ -16,19 +17,23 @@ https://www.naiun.cc/#/register?code=JBstTvXF
 ****
 https://xn--4gq62f52gdss.com/#/register?code=xKN6katp  
 免费：无  
-最低付费套餐：9.6元/年（0.8元/月），每月重置100G流量
+最低付费套餐：11元/年（0.9元/月），每月重置100G流量（不限终端，不限速，完整解锁流媒体）   
+★推荐★
 ****
 https://yyds.emovpn.top/#/register?code=7KLxhYOS  
 免费：300G/月。一元全额抵扣码：pAuz4Pel  
-最低付费套餐：5元/1000G/月
+最低付费套餐：5元/1000G/月  
+★推荐★
 ****
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k  
 免费：优惠码PPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
-最低付费套餐：1.1元/500G/月（3终端，解锁流媒体）
+最低付费套餐：1.1元/500G/月（3终端，解锁流媒体）。现改为300G。2022/6/17  
+★推荐★
 ****
 https://www.youzi.pro/#/register?code=8TuKBnAV  
 免费：20G/月 ，1元抵扣优惠码MPCRzukl  
-最低付费套餐：3元/80G/月（可参加TG群抽奖免费获取，5终端，不限速）
+最低付费套餐：3元/80G/月（可参加TG群抽奖免费获取，5终端，不限速）  
+★推荐★
 ****
 https://t.me/shenseven_bot?start=de2AZAcC  
 免费：需telegram注册，500G/月，含多个免流节点。5.5元全额抵扣码shenseven。    
