@@ -5,7 +5,7 @@
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
 ****
 免费与付费有质的区别，不要对免费期待过高，  
-如需中高端付费机场，请移步至https://raw.githubusercontent.com/deezertidal/fee-based/main/README.md
+如需中高端付费机场，请移步至https://github.com/deezertidal/fee-based/blob/main/README.md
 ****
 ★推荐★  
 https://t.me/welink345bot?start=15fEi4Y5  
