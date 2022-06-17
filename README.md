@@ -4,7 +4,8 @@
 请合理使用，流量不够用的可以多注册几个，用得好可以考虑付费，推荐月付。  
 切忌公开订阅链接。  近期DNS污染，建议备用多个。  
 ****
-免费与付费有质的区别，不要对免费期待过高  
+免费与付费有质的区别，不要对免费期待过高，  
+如需中高端付费机场，请移步至https://raw.githubusercontent.com/deezertidal/fee-based/main/README.md
 ****
 https://t.me/welink345bot?start=15fEi4Y5  
 免费：telegram注册，通过签到积分可长期免费。32G/月。  
