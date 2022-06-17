@@ -38,10 +38,12 @@ https://www.youzi.pro/#/register?code=8TuKBnAV
 https://t.me/shenseven_bot?start=de2AZAcC  
 免费：需telegram注册，500G/月，含多个免流节点。5.5元全额抵扣码shenseven。    
 最低付费套餐：70元/48.8T/年（不限设备，不限速，年付，谨慎购买）  
+不推荐：注册操作繁琐，节点名称很花哨，有100倍率的节点
 ****
 https://t.me/qdyun_bot?start=0vmakcm1  
 免费：需telegram注册，需邀请他人注册。永久免费。开号之后大概300G/月  
-最低付费套餐：无
+最低付费套餐：无  
+不推荐：注册操作繁琐，节点名称很花哨，有100倍率的节点
 ****
 https://portal.getfree.cloud/auth/register?code=KsxH  
 免费：靠签到可增加流量跟账户时效，注册第二天才能使用节点    
