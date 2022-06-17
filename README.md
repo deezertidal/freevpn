@@ -27,7 +27,7 @@ https://yyds.emovpn.top/#/register?code=7KLxhYOS
 ****
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k  
 免费：优惠码PPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
-最低付费套餐：1.1元/500G/月（3终端，解锁流媒体）。现改为300G。2022/6/17  
+最低付费套餐：1.39元/500G/月（3终端，解锁流媒体,免流端口）。2022.6.17  
 ★推荐★
 ****
 https://www.youzi.pro/#/register?code=8TuKBnAV  
