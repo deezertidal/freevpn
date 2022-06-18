@@ -39,7 +39,7 @@ http://yun.moonfree.top/#/register?code=qgdKwQjz
 ****
 https://www.naiun.cc/#/register?code=JBstTvXF  
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2  
-最低付费套餐：12元/120G/月（8折优惠码NY8Z。5终端，不限速， 解锁流媒体）  
+最低付费套餐：12元/120G/月（8折优惠码NY8Z，6.18折优惠码618，仅限618活动。5终端，不限速， 解锁流媒体）  
 ****
 https://t.me/shenseven_bot?start=de2AZAcC  
 免费：需telegram注册，500G/月，含多个免流节点。5.5元全额抵扣码shenseven。    
