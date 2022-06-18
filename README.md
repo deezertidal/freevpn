@@ -11,6 +11,7 @@
 https://t.me/welink345bot?start=15fEi4Y5  
 免费：telegram注册，通过签到积分可长期免费。32G/月。  
 最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，★7天无理由退款★）  
+新增：1.99元/32G/月，结束时间未知（不限终端不限速，解锁流媒体，★7天无理由退款★）  
 ****
 ★推荐★  
 https://xn--4gq62f52gdss.com/#/register?code=xKN6katp  
