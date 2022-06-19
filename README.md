@@ -87,7 +87,7 @@ https://pdjc.cc/index.php#/register?code=uZAqpr81
 最低付费套餐：9.9元/90G/月（3终端）
 ****
 https://jsmao.net/auth/register?code=XIpX  
-免费：30天100G，不可长期  
+免费：30天100G  
 最低付费套餐：15元/1024G/月（3终端，不限速）  
 ****  
 https://portx.cc/auth/register?code=pgEf  
