@@ -150,6 +150,11 @@ https://cwv587.com/auth/register?code=aP0B
 免费：0倍率节点，流量不限  
 最低付费套餐：6元/128G/月（3终端，不限速）  
 ****
+https://www.feiguayun.com/#/register?code=f6WsAAx9  
+免费：无  
+最低付费套餐：15元/无限流量/月（2终端不限速）  
+
+****
 ****
 ****
 https://xiaohuojian8.com/aff/2526.html  
