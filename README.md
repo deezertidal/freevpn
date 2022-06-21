@@ -74,10 +74,6 @@ https://2220.it/register?aff=hoWWXZKVJs
 免费：100G/10年 限速3Mbps  
 最低付费套餐：5元/100G/10年（30终端，1Gbps）
 ****
-https://www.elkcloud.cc/auth/register?code=wnkG  
-免费：无  
-最低付费套餐：0.5元/30G/月
-****
 https://www.cnnts.tk/#/register?code=GtUzYfo6  
 免费：20G无时限 一个账号只能购买一次  
 最低付费套餐：无
