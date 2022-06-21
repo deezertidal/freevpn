@@ -34,7 +34,7 @@ https://www.youzi.pro/#/register?code=8TuKBnAV
 免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
 最低付费套餐：7.5元/300G/月（5终端，不限速，流媒体解锁）  
 ****
-★推荐★ ~~(6月30日关闭注册)~~  开放注册
+★推荐★ ~~(6月30日关闭注册)~~  开放注册  
 http://yun.moonfree.top/#/register?code=qgdKwQjz  
 免费：已取消  
 最低付费套餐：~~0.9元/150G/月~~ 活动价0.5元/150G/月  
