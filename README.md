@@ -23,7 +23,7 @@ https://yyds.emovpn.top/#/register?code=7KLxhYOS
 ****
 https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k  
 免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
-最低付费套餐：1.39元/500G/月（3终端，解锁流媒体,含免流端口）
+最低付费套餐：1.39元/500G/月（3终端，解锁流媒体,含免流端口）更换优质节点，成本增加，近期会涨价。  
 ****
 https://www.youzi.pro/#/register?code=8TuKBnAV  
 免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
