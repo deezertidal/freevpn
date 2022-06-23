@@ -32,8 +32,7 @@ https://www.youzi.pro/#/register?code=8TuKBnAV
 ~~(6月30日关闭注册)~~  开放注册  
 http://yun.moonfree.top/#/register?code=qgdKwQjz  
 免费：已取消  
-最低付费套餐：~~0.9元/150G/月~~ 活动价0.5元/150G/月 
-目前节点全红 待修复完之后购买!!!  
+最低付费套餐：~~0.9元/150G/月~~ 活动价0.5元/150G/月    
 ****
 https://ysbzc.one/#/register?code=ZfpvDLlW    
 免费：购买永久0元套餐，1G流量，但是节点不消耗流量，等于无限，速度只能满足基本需求    
