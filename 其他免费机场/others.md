@@ -103,7 +103,7 @@
 免费：0元/100G/月  
 最低付费套餐：4.9元/200G/月
 ****
-[V2云](https://cwv587.com/auth/register?code=aP0B  )
+[V2云](https://cwv587.com/auth/register?code=aP0B)  
 免费：0倍率节点，流量不限  
 最低付费套餐：6元/128G/月（3终端，不限速）  
 ****
