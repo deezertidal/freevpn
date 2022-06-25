@@ -2,9 +2,9 @@
 [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 [V2RAY](https://github.com/v2ray/v2ray-core/releases)  
 <br>  
-android/安卓端：  
-[Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh-cn)  
-[Clash For Android](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh-cn)  
+安卓端google play商店：  
+[Surfboard on google play](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh-cn)  
+[Clash For Android on google play](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh-cn)  
 或自行搜索
 <br>  
 ios端：  
