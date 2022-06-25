@@ -39,4 +39,5 @@
 最低付费套餐：12元/200G/永久（不限速，首购9折优惠码:YSBZCFAST）  
 ****
 [点击查看其他免费机场](https://github.com/deezertidal/freevpn/blob/main/%E5%85%B6%E4%BB%96%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA/others.md)  
-
+<br>
+附[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)  
