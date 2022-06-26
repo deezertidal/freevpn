@@ -26,7 +26,7 @@
 ****
 [白嫖机场](https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k)  
 免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
-最低付费套餐：1.39元/500G/月（3终端，解锁流媒体,含免流端口）更换优质节点，成本增加，近期会涨价。  
+最低付费套餐：1.39元/666G/月,9.9元一年，每月333G（~~3终端，~~ 不限终端，解锁流媒体,含免流端口）更换优质节点，成本增加，~~近期会涨价。 ~~从最新价格来看反而是降价了。图片未及时更新，请进入官网查看。   
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/bpjc.png)  
 ****
 [柚子](https://www.youzi.pro/#/register?code=8TuKBnAV)  
