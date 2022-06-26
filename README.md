@@ -12,6 +12,7 @@
 免费：telegram注册，通过签到积分可长期免费。32G/月。  
 ~~最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，低倍率★7天无理由退款★）~~  
 最低付费套餐：1.99元/32G/月，4.99元128G/月（不限终端不限速，解锁流媒体，低倍率，★7天无理由退款★）  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/welink.jpg)
 ****
 [一元机场](https://xn--4gq62f52gdss.com/#/register?code=xKN6katp)  
 免费：无  
