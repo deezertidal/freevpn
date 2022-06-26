@@ -16,7 +16,7 @@
 ****
 [一元机场](https://xn--4gq62f52gdss.com/#/register?code=xKN6katp)  
 免费：无  
-最低付费套餐：11元/年（0.9元/月），每月重置100G流量（不限终端，不限速，完整解锁流媒体）   
+最低付费套餐：11元/年（0.9元/月），每月重置100G中转流量或500G直连流量（不限终端，不限速，完整解锁流媒体）   
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/yyjc.png)  
 ****
 [EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
