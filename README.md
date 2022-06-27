@@ -17,7 +17,7 @@
 [一元机场](https://xn--4gq62f52gdss.com/#/register?code=xKN6katp)  
 免费：无  
 最低付费套餐：11元/年（0.9元/月），每月重置100G中转流量或500G直连流量（不限终端，不限速，完整解锁流媒体）   
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/yyjc.png)  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Yyjc.png)  
 ****
 [EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：pAuz4Pel  
@@ -26,8 +26,8 @@
 ****
 [白嫖机场](https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k)  
 免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
-最低付费套餐：1.39元/666G/月,9.9元一年，每月333G（~~3终端，~~ 不限终端，解锁流媒体,含免流端口）更换优质节点，成本增加，~~近期会涨价。~~ 从最新价格来看反而是降价了。图片未及时更新，请进入官网查看。   
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/bpjc.png)  
+最低付费套餐：1.39元/666G/月,9.9元一年，每月333G（~~3终端，~~ 不限终端，解锁流媒体,含免流端口）更换优质节点，成本增加，~~近期会涨价。~~ 从最新价格来看反而是降价了
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Bpjc.png)  
 ****
 [柚子](https://www.youzi.pro/#/register?code=8TuKBnAV)  
 免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
