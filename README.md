@@ -14,11 +14,6 @@
 最低付费套餐：1.99元/32G/月，4.99元128G/月（不限终端不限速，解锁流媒体，低倍率，★7天无理由退款★）  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/welink.jpg)
 ****
-[一元机场](https://xn--4gq62f52gdss.com/#/register?code=xKN6katp)  
-免费：无  
-最低付费套餐：11元/年（0.9元/月），每月重置100G中转流量或500G直连流量（不限终端，不限速，完整解锁流媒体）   
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Yyjc.png)  
-****
 [EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：pAuz4Pel  
 最低付费套餐：5元/1000G/月（不限终端，不限速，解锁流媒体）  
