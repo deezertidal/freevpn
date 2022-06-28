@@ -67,6 +67,10 @@
 免费：50G/月 可免费续期，优惠码：free。  
 最低付费套餐：2元/400G/月（不限终端，不限速）
 ****
+[一元机场](https://xn--4gq62f52gdss.com/#/register?code=xKN6katp)  
+免费：无  
+最低付费套餐：11元/年（0.9元/月），每月重置100G中转流量或500G直连流量（不限终端，不限速，完整解锁流媒体）   
+****
 [galaxy](https://www.galaxy-cloud.com/#/register?code=kbCoo1l6)    
 免费：永久，流量可免费重置    
 最低付费套餐：20元/200G/月（解锁流媒体）
