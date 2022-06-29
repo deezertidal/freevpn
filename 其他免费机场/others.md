@@ -30,11 +30,7 @@
 ****
 [红杏](https://www.cnnts.tk/#/register?code=GtUzYfo6)  
 免费：20G无时限 一个账号只能购买一次  
-最低付费套餐：无
-****
-[移不动](https://ybdml.cc/auth/register?code=Gc3R)  
-免费：1G 免费一个月（倍率0.01，0.001，相当于几百G）  
-最低付费套餐：5元/150G/月（2终端，解锁流媒体，含免流节点）
+最低付费套餐：无  
 ****
 [greatdeal](http://greatdeal.life/auth/register?code=lIBA)  
 免费：100G一年  
