@@ -24,7 +24,7 @@
 最低付费套餐：1.39元/666G/月,9.9元一年，每月333G（~~3终端，~~ 不限终端，解锁流媒体,含免流端口）更换优质节点，成本增加，~~近期会涨价。~~ 从最新价格来看反而是降价了
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Bpjc.png)  
 ****
-[柚子](https://www.youzi.pro/#/register?code=8TuKBnAV)  
+[柚子](https://www.youzi.pro/#/register?code=ryHbDlH3)  
 免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
 最低付费套餐：7.5元/300G/月（5终端，不限速，流媒体解锁）  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/youzi.jpg)  
