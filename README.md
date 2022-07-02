@@ -147,3 +147,7 @@
 [飞瓜云](https://www.feiguayun.com/#/register?code=f6WsAAx9)  
 免费：无  
 最低付费套餐：15元/无限流量/月（2终端不限速）  
+****
+[Tink](https://tinkhub.me/#/register?code=l6ckw89Z)  
+免费：0元/150G/月  
+最低付费套餐：10元/500G/月  
