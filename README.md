@@ -10,8 +10,9 @@
 [welink](https://t.me/welink345bot?start=15fEi4Y5)  
 免费：telegram注册，通过签到积分可长期免费。32G/月。  
 ~~最低付费套餐：8.99元/128G/月（不限终端不限速，解锁流媒体，低倍率★7天无理由退款★）~~  
-最低付费套餐：1.99元/32G/月，4.99元128G/月（不限终端不限速，解锁流媒体，低倍率，★7天无理由退款★）  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/welink.jpg)
+~~最低付费套餐：1.99元/32G/月，4.99元128G/月（不限终端不限速，解锁流媒体，低倍率，★7天无理由退款★）~~  
+最低付费套餐：1.99元/32G/月，3.99元/256G/月，6.99元/512G/月（不限终端不限速，解锁流媒体，低倍率，★7天无理由退款★）  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/weLink.png)  
 ****
 [EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：~~pAuz4Pel~~  更新：btlyxcMN  
@@ -22,11 +23,6 @@
 免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
 最低付费套餐：1.39元/666G/月,9.9元一年，每月333G（~~3终端，~~ 不限终端，解锁流媒体,含免流端口）更换优质节点，成本增加，~~近期会涨价。~~ 从最新价格来看反而是降价了
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Bpjc.png)  
-****
-[柚子](https://www.youzi.pro/#/register?code=KBRsRTKD)  
-免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
-最低付费套餐：7.5元/300G/月（5终端，不限速，流媒体解锁）  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/youzi.jpg)  
 ****
 ~~(6月30日关闭注册)~~  开放注册  
 [快乐的人](http://yun.moonfree.top/#/register?code=qgdKwQjz)  
@@ -55,6 +51,10 @@
 [奇点](https://t.me/qdyun_bot?start=0vmakcm1)  
 免费：需telegram注册，需邀请他人注册。永久免费。开号之后大概300G/月  
 最低付费套餐：无  
+****
+[柚子](https://www.youzi.pro/#/register?code=KBRsRTKD)  
+免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
+最低付费套餐：7.5元/300G/月（5终端，不限速，流媒体解锁）  
 ****
 [getfree](https://portal.getfree.cloud/auth/register?code=KsxH)  
 免费：靠签到可增加流量跟账户时效，注册第二天才能使用节点    
