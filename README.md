@@ -121,7 +121,7 @@
 免费：40G/月 可免费重置。  
 最低付费套餐：17元/115G/月（不限终端，不限速，解锁流媒体）
 ****
-[飞一般](https://hmkj3.com/#/register?code=xtVdcNG2)  
+[海马科技](https://hmkj3.com/#/register?code=xtVdcNG2)  
 免费：30G一月  
 最低付费套餐：10元/101G/月  
 ****
