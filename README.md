@@ -151,4 +151,4 @@
 ****
 [Tink](https://tinkhub.me/#/register?code=l6ckw89Z)  
 免费：0元/10G/月  
-最低付费套餐：10元/500G/月  
+最低付费套餐：3元/50G/月  
