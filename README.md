@@ -41,6 +41,10 @@
 最低付费套餐：11元一年，每月重置100G中转流量货500G直连流量    
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Yyjc.png)
 ****
+[免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
+免费：无  
+最低付费套餐：3元/50G/月，全免流端口  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 [奈云](https://www.naiun.cc/#/register?code=JBstTvXF)  
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2  
 最低付费套餐：12元/120G/月（8折优惠码NY8Z，6.18折优惠码618，仅限618活动。5终端，不限速， 解锁流媒体）  
