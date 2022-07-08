@@ -14,6 +14,11 @@
 最低付费套餐：1.99元/32G/月，3.99元/256G/月，6.99元/512G/月（不限终端不限速，解锁流媒体，低倍率，★7天无理由退款★）  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/weLink.png)  
 ****
+[免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
+免费：无  
+最低付费套餐：3元/50G/月，全免流端口  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
+****
 [EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：~~pAuz4Pel~~  更新：btlyxcMN  
 最低付费套餐：5元/1000G/月（不限终端，不限速，解锁流媒体）  
@@ -41,10 +46,6 @@
 最低付费套餐：11元一年，每月重置100G中转流量货500G直连流量    
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/Yyjc.png)
 ****
-[免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
-免费：无  
-最低付费套餐：3元/50G/月，全免流端口  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 [奈云](https://www.naiun.cc/#/register?code=JBstTvXF)  
 免费：免费优惠码QLDK324，可长期。120G/月。优惠码可能这几天就失效2022/6/2  
 最低付费套餐：12元/120G/月（8折优惠码NY8Z，6.18折优惠码618，仅限618活动。5终端，不限速， 解锁流媒体）  
