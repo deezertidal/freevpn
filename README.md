@@ -56,26 +56,6 @@
 免费：需telegram注册，500G/月，含多个免流节点。5.5元全额抵扣码shenseven。    
 最低付费套餐：70元/48.8T/年（不限设备，不限速，年付，谨慎购买）  
 ****
-[奇点](https://t.me/qdyun_bot?start=0vmakcm1)  
-免费：需telegram注册，需邀请他人注册。永久免费。开号之后大概300G/月  
-最低付费套餐：无  
-****
-[柚子](https://www.youzi.pro/#/register?code=KBRsRTKD)  
-免费：20G/月 ，1元抵扣优惠码~~MPCRzukl失效~~  更新：GEp8SLq1  
-最低付费套餐：7.5元/300G/月（5终端，不限速，流媒体解锁）  
-****
-[getfree](https://portal.getfree.cloud/auth/register?code=KsxH)  
-免费：靠签到可增加流量跟账户时效，注册第二天才能使用节点    
-最低付费套餐：无
-****
-[magic school](https://2220.it/register?aff=hoWWXZKVJs)  
-免费：100G/10年 限速3Mbps  
-最低付费套餐：5元/100G/10年（30终端，1Gbps）
-****
-[红杏](https://www.cnnts.tk/#/register?code=GtUzYfo6)  
-免费：20G无时限 一个账号只能购买一次  
-最低付费套餐：无  
-****
 [greatdeal](http://greatdeal.life/auth/register?code=lIBA)  
 免费：100G一年  
 最低付费套餐：无  
@@ -83,14 +63,6 @@
 [PDJC](https://pdjc.cc/index.php#/register?code=uZAqpr81)  
 免费：999元全额抵扣码：我要白嫖。一次性1024G不限时。  
 最低付费套餐：9.9元/90G/月（3终端）
-****
-[加速猫](https://jsmao.net/auth/register?code=XIpX)  
-免费：30天100G  
-最低付费套餐：15元/1024G/月（3终端，不限速）  
-****  
-[portX](https://portx.cc/auth/register?code=pgEf)  
-免费：半年10G，可签到领流量  
-最低付费套餐：5元/50G/月（5终端，100Mbps）
 ****
 [咪蒙](https://love.mimon.cc/#/register?code=R8vS79L3)  
 免费：可购买0元套餐，50G/月  
@@ -111,30 +83,6 @@
 [galaxy](https://www.galaxy-cloud.com/#/register?code=kbCoo1l6)    
 免费：永久，流量可免费重置    
 最低付费套餐：20元/200G/月（解锁流媒体）
-****
-[alisa](http://52.alisa.cloud/#/register?code=hdp8n4Xm)  
-免费：每月重置50G流量，为期一年。  
-最低付费套餐：4元/500G/月
-****
-[Xstars](https://xstars.top/#/register?code=FWsEGnFh)  
-免费：每月重置100G流量，可免费续期。  
-最低付费套餐：8元/100G/月
-****
-[keko](https://keko.club/#/register?code=kFksSEJd)  
-免费：40G/月 可免费重置。  
-最低付费套餐：17元/115G/月（不限终端，不限速，解锁流媒体）
-****
-[海马科技](https://hmkj3.com/#/register?code=xtVdcNG2)  
-免费：30G一月  
-最低付费套餐：10元/101G/月  
-****
-[快枪手](https://kuaiqiangshou.xyz/#/register?code=TQxbG8hc)  
-免费：10000G 永久  
-最低付费套餐：8元/88G/月（解锁流媒体）
-****
-[ZOU](https://zou666.vip/#/register?code=tKBNCq83)  
-免费：50G一月  
-最低付费套餐：7.99元/88G/月（不限终端，不限速）
 ****
 [best vpn](https://panel.vp0.cc/#/register?code=DZ9Ek9U5)  
 免费：邀请注册可获得永久流量  
