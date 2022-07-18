@@ -7,6 +7,11 @@
 ****
 
 ****
+## [Magic School](https://2220.it/register?aff=GNs68S4XWT)  
+免费：2TB永久限速流量  
+最低付费套餐：5元/100G/年  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/ms.png)
+****
 ## [免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
 免费：无  
 最低付费套餐：3元/50G/月，全免流端口  
