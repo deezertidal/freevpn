@@ -6,16 +6,15 @@
 如需中高端付费机场，请移步至[中高端机场分享](https://github.com/deezertidal/fee-based/blob/main/README.md)
 ****
 
+## 自用[免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
+免费：无  
+最低付费套餐：3元/50G/月，全免流端口  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 ****
 ## [Magic School](https://2220.it/register?aff=GNs68S4XWT)  
 免费：2TB永久限速流量  
 最低付费套餐：5元/100G/年  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/ms.png)
-****
-## [免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
-免费：无  
-最低付费套餐：3元/50G/月，全免流端口  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 ****
 ## [牛油果](https://nyg.aikala.shop/#/register?code=D1yRed1F)  
 免费：有0元无限购买套餐，200G/月  
