@@ -16,9 +16,9 @@
 最低付费套餐：5元/100G/年  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/ms.png)
 ****
-### :white_check_mark:[牛油果](https://nyg.aikala.shop/#/register?code=D1yRed1F)  
-免费：有0元无限购买套餐，200G/月  
-最低付费套餐：6.6元/1024G/月（免流端口，不限终端，不限速）  
+### ~~:white_check_mark:[牛油果](https://nyg.aikala.shop/#/register?code=D1yRed1F)~~  
+~~免费：有0元无限购买套餐，200G/月  
+最低付费套餐：6.6元/1024G/月（免流端口，不限终端，不限速）~~  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/nyg.png)  
 ****
 ### :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
