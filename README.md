@@ -14,12 +14,7 @@
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
 免费：2TB永久限速流量  
 最低付费套餐：5元/100G/年  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/ms.png)
-****
-### ~~:white_check_mark:[牛油果](https://nyg.aikala.shop/#/register?code=D1yRed1F)~~  
-~~免费：有0元无限购买套餐，200G/月  
-最低付费套餐：6.6元/1024G/月（免流端口，不限终端，不限速）~~  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/nyg.png)  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/ms.png)  
 ****
 ### :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：~~pAuz4Pel~~  更新：btlyxcMN  
