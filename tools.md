@@ -9,5 +9,4 @@
 <br>  
 ios端：  
 appstore购买Shadowrocket/QuantumultX/Loon  
-或[查看免费shadowrocket账号](https://jimmystore.xyz/)(不保证有效，无法自由升级)  
 或[购买单独账号](https://xiaohuojian8.com/aff/2526.html)  
