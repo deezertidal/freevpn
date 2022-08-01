@@ -12,7 +12,7 @@
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 ****
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
-免费：2TB永久限速1.5M流量
+免费：2TB永久限速1.5M/s流量  
 最低付费套餐：5元/50G/月  
 ⭐️七夕限时活动：10元/125G/半年  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/MS.png)  
