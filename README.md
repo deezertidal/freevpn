@@ -9,7 +9,7 @@
 
 ### :white_check_mark:自用[免流骚](https://mlsao.xyz/#/register?code=UASNw8bW)  
 免费：无  
-最低付费套餐：3元/50G/月，全免流端口  
+最低付费套餐：3元/50G/月，全免流端口,不限终端不限速  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 ****
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
