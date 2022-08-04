@@ -67,7 +67,7 @@
 免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
 最低付费套餐：价格变动频繁，不建议付费
 ****
-###### :white_check_mark:[crushs](https://crushs.top/#/register?code=mt4muj1B)  
+###### :white_check_mark:[crushs](https://crushsr.com/#/register?code=mt4muj1B)  
 免费：50G/月 可免费续期，优惠码：free。  
 最低付费套餐：2元/400G/月（不限终端，不限速）   
 ****
