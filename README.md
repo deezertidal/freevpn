@@ -64,7 +64,7 @@
 65折优惠码：YSBZC-0702-65。截止日期：2022/07/02 20:28 ~ 2022/07/22 20:28  
 ****  
 ###### :white_check_mark:[白嫖机场](https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k)  
-免费：优惠码BPPPPPP，500G/月，可长期。应该又有免费套餐了，可以注册试试  
+免费：已取消  
 最低付费套餐：价格变动频繁，不建议付费
 ****
 ###### :white_check_mark:[crushs](https://crushsr.com/#/register?code=mt4muj1B)  
