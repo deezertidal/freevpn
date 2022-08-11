@@ -66,7 +66,7 @@
 ****  
 ###### :white_check_mark:[白嫖机场](https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k)  
 免费：已取消  
-最低付费套餐：价格变动频繁，不建议付费
+最低付费套餐：价格变动频繁  
 ****
 ###### :white_check_mark:[crushs](https://crushsr.com/#/register?code=mt4muj1B)  
 免费：50G/月 可免费续期，优惠码：free。  
