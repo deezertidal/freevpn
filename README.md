@@ -26,7 +26,7 @@
 ****
 
 ### :white_check_mark:[做个快乐的人](http://yun.moonfree.top/#/register?code=GZ5PcVIL)  
-免费：已取消  
+免费：0元10G    
 最低付费套餐：1元/30G/月    
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/kldr.png)  
 ****
