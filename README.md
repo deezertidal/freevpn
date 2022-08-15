@@ -15,7 +15,7 @@
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
 免费：2TB永久限速1.5M/s流量   
 最低付费套餐：5元/50G/月   
-经常有活动套餐，详见官网  
+☆经常有活动套餐，详见[官网](https://2220.it/register?aff=GNs68S4XWT)  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/MS.png)  
 ****
 ### :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
