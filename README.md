@@ -45,10 +45,6 @@
 免费：可购买0元套餐，50G/月  
 最低付费套餐：5元/100G（解锁流媒体，针对运营商优化）
 ****
-###### :white_check_mark:[WELINK](https://t.me/welink345bot?start=15fEi4Y5)  
-免费：~~telegram注册，通过签到积分可长期免费。32G/月。~~  
-最低付费套餐：6元/64G/月（不限终端不限速，解锁流媒体）  
-****
 ###### :white_check_mark:[莉莉安](https://ssrr.xyz/#/register?code=tWnDeJwR)  
 免费：可购买0元套餐，40G/月。  
 最低付费套餐：无
