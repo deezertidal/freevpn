@@ -94,6 +94,10 @@
 ###### :white_check_mark:[Tink](https://tinkhub.me/#/register?code=l6ckw89Z)  
 免费：0元/1T/月  
 最低付费套餐：3元/1T/月  
-****  
+****
+###### :white_check_mark:[SSR-SUB](https://sub.ssrsub.com/#/register?code=cgoqnEpe)  
+免费：0元/50G/季，抵扣码：ssrsub-999  
+最低付费套餐：无
+****
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/Reward.jpg)
 
