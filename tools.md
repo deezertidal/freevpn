@@ -10,5 +10,5 @@
 <br>  
 
 * ios端：  
-appstore购买Shadowrocket/QuantumultX/Loon  
+appstore购买Shadowrocket/QuantumultX/Loon/Egern  
 或[购买单独账号](https://xiaohuojian8.com/aff/2526.html)  
