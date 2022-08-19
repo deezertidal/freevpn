@@ -7,7 +7,8 @@ scriptings:
   - http-response:
       name: AudioMack
       script_url: https://raw.githubusercontent.com/yqc007/QuantumultX/master/AudioMackFProCrack.js
-      match: >-        https://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status
+      match: >-        
+      https://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status
      
      body_required: true
   
