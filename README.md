@@ -30,6 +30,11 @@
 最低付费套餐：1元/30G/月    
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/kldr.png)  
 ****
+
+<details>
+
+<summary>点击展开其他机场</summary>
+
 ###### :white_check_mark:[神器](https://t.me/shenseven_bot?start=de2AZAcC)  
 免费：需telegram注册，500G/月，含多个免流节点。5.5元全额抵扣码shenseven。    
 最低付费套餐：70元/48.8T/年（不限设备，不限速，年付，谨慎购买）  
@@ -99,6 +104,8 @@
 ###### :white_check_mark:[SSR-SUB](https://sub.ssrsub.com/#/register?code=cgoqnEpe)  
 免费：0元/50G/季，抵扣码：ssrsub-999  
 最低付费套餐：无
+
+</details>
+
 ****
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/Reward.jpg)
-
