@@ -15,6 +15,7 @@
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
 ****
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
+* 支付方跑路（不是机场跑路）暂无法支付  
 免费：2TB永久限速1.5M/s流量  
 最低付费套餐：5元/50G/月（速率1Gb/s）   
 ☆经常有限时活动套餐，详见[官网](https://2220.it/register?aff=GNs68S4XWT)  
