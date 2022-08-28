@@ -3,44 +3,30 @@
 #!
 #!
 
+
 [MITM]
-hostname=pan.baidu.com, yun.baidu.com, pan.baidu.com, yun.baidu.com, pan.baidu.com, yun.baidu.com, .*.youku.com, .*.iqiyi.com, .*.iq.com, .*.le.com, v.qq.com, m.v.qq.com, .*.tudou.com, .*.mgtv.com,tv.sohu.com, film.sohu.com, .*.1905.com, .*.bilibili.com, .*.pptv.com, item.taobao.com, chaoshi.detail.tmall.com, detail.tmall.com, detail.tmall.hk, item.jd.com, .*.yiyaojd.com, .*.liangxinyao.com,music.163.com, y.qq.com, .*.kugou.com, .*.kuwo.cn, .*.ximalaya.com, .*.zhihu.com, .*.douyin.com, .*.kuaishou.com, .*.ixigua.com
+hostname=v.qq.com, m.v.qq.com, *.iqiyi.com, *.youku.com, .*.bilibili.com,.*.miguvideo.com, *.le.com, tv.sohu.com, film.sohu.com,m.tv.sohu.com, .*.mgtv.com, *.ixigua.com, *.pptv.com,vip.1905.com, www.wasu.cn, api.leduotv.com
+
+
 
 [Script]
-
-
-http-response pan\.baidu\.com/disk/home.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response yun\.baidu\.com/disk/home.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response pan\.baidu\.com/disk/main.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response yun\.baidu\.com/disk/main.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response pan\.baidu\.com/s.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response yun\.baidu\.com/s.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.youku\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.iqiyi\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.iq\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.le\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response v\.qq\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response m\.v\.qq\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.tudou\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.mgtv\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response tv\.sohu\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response film\.sohu\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.1905\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.bilibili\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.pptv\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response item\.taobao\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response chaoshi\.detail\.tmall\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response detail\.tmall\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response detail\.tmall\.hk/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response item\.jd\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.yiyaojd\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.liangxinyao\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response music\.163\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response y\.qq\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.kugou\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.kuwo\.cn/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.ximalaya\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.zhihu\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.douyin\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.kuaishou\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
-http-response .*\.ixigua\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、知乎增强、短视频无水印下载、百度网盘直接下载等多功能工具箱，功能可独立开关。长期更新，放心使用。v55.user.js
+http-response v\.qq\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response m\.v\.qq\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.iqiyi\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.youku\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.bilibili\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.miguvideo\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.le\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response tv\.sohu\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response film\.sohu\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response m\.tv\.sohu\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.mgtv\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.ixigua\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\.pptv\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response vip\.1905\.com/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response www\.wasu\.cn/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\..*/.*url=http.*://.*\..*\..*/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\..*:.*/.*url=http.*://.*\..*\..*/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\..*/.*v=http.*://.*\..*\..*/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response .*\..*:.*/.*v=http.*://.*\..*\..*/.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
+http-response api\.leduotv\.com/.*?vid=.* script-path=https://raw.githubusercontent.com/deezertidal/freevpn/main/us.js, requires-body=true, tag=全网VIP视频自动解析播放器(已适配手机).user.js
