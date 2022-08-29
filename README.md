@@ -9,11 +9,7 @@
 
 ****
 
-### :white_check_mark:自用[免流骚](https://xn--94q649dc94a.com/#/register?code=UASNw8bW)  
-免费：无  
-最低付费套餐：3元/50G/月，全免流端口,不限终端不限速  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
-****
+
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)   
 免费：2TB永久限速1.5M/s流量  
 最低付费套餐：5元/50G/月（速率1Gb/s）   
@@ -25,7 +21,11 @@
 最低付费套餐：5元/1000G/月（不限终端，不限速，解锁流媒体）  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/EMO.png)  
 ****
-
+### :white_check_mark:[免流骚](https://xn--94q649dc94a.com/#/register?code=UASNw8bW)  
+免费：无  
+最低付费套餐：3元/50G/月，全免流端口,不限终端不限速  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
+****
 <details>
 
 <summary>点击展开其他机场</summary>
