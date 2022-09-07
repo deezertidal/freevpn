@@ -14,7 +14,7 @@
 免费：2TB永久限速1.5M/s流量  
 最低付费套餐：5元/50G/月（速率1Gb/s）   
 ☆经常有限时活动套餐，详见[官网](https://2220.it/register?aff=GNs68S4XWT)  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/MS.png)  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/msh.png)  
 ****
 ### :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：~~pAuz4Pel  更新：btlyxcMN~~  
