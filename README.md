@@ -15,6 +15,7 @@
 * #### 专属八折优惠码shadycn（活动套餐除外）  
 免费：2TB永久限速1.5M/s流量  
 最低付费套餐：5元/50G/月（速率1Gb/s）    
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/MGSC.jpg)  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/msh.png)  
 ****
 ### :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
