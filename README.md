@@ -13,7 +13,7 @@
 * ##### 专属八折优惠码shadycn（活动套餐除外）  
 免费：暂无
 最低付费套餐：9.9元/120G/月  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/msg1.png)  
+![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mgs1.png)  
 ****
 ### :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)  
 免费：300G/月。一元全额抵扣码：~~pAuz4Pel  更新：btlyxcMN~~  
