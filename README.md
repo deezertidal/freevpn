@@ -10,7 +10,7 @@
 
 
 ### :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
-* ##### 专属八折优惠码shadycn（活动套餐除外）  
+* ##### 专属八折优惠码shadycn（活动套餐除外）。官方65折限时优惠码2220it-35OFF(活动套餐除外)  
 免费：暂无  
 最低付费套餐：9.9元/120G/月  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mgs1.png)  
