@@ -1,8 +1,5 @@
 # :airplane:免费公益机场分享 
   
-###### welink订阅链接换个圈X有效车位 
-
-64G套餐（实际160G 可能是邀请奖励吧 就当他64G）11月24日到期 另外还有30元余额 可以续费5个月的64G 或两个月160G 可以先试用 我机场很多 但你也不要恶意跑流量 有意者联系TG：deezertidal
 </details>
 
 #### [小火箭配置/surge模块](https://github.com/deezertidal/shadowrocket-rules/blob/main/README.md)，[Loon配置脚本插件](https://github.com/deezertidal/private/blob/main/README.md)，[上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
