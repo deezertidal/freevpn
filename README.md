@@ -29,7 +29,11 @@
 <details>
 
 <summary>点击展开其他机场</summary>
-  
+
+###### :white_check_mark:[WELINK](https://t.me/welink345bot?start=15fEi4Y5)  
+免费：~~telegram注册，通过签到积分可长期免费。32G/月。~~  
+最低付费套餐：6元/64G/月（不限终端不限速，解锁流媒体）  
+****
 ###### :white_check_mark:[做个快乐的人](http://yun.moonfree.top/#/register?code=GZ5PcVIL)  
 免费：0元10G    
 最低付费套餐：1元/30G/月    
