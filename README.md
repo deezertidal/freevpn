@@ -69,11 +69,7 @@
 ****  
 ###### :white_check_mark:[白嫖机场](https://xn--mesv7f5toqlp.club/#/register?code=oxbXIi7k)  
 免费：已取消  
-最低付费套餐：价格变动频繁  
-****
-###### :white_check_mark:[crushs](https://crushsr.com/#/register?code=mt4muj1B)  
-免费：50G/月 可免费续期，优惠码：free。  
-最低付费套餐：2元/400G/月（不限终端，不限速）   
+最低付费套餐：价格变动频繁     
 ****
 ###### :white_check_mark:[galaxy](https://www.galaxy-cloud.com/#/register?code=kbCoo1l6)    
 免费：永久，流量可免费重置    
@@ -90,23 +86,13 @@
 ###### :white_check_mark:[V2云](https://cwv587.com/auth/register?code=aP0B)  
 免费：0倍率节点，流量不限  
 最低付费套餐：6元/128G/月（3终端，不限速）  
-****
-###### :white_check_mark:[一元机场](https://xn--4gq62f52gdss.com/#/register?code=xKN6katp)  
-免费：无  
-最低付费套餐：11元一年，每月重置100G中转流量货500G直连流量    
 
-****
-###### :white_check_mark:[飞瓜云](https://www.feiguayun.com/#/register?code=f6WsAAx9)  
-免费：无   
-最低付费套餐：15元/无限流量/月（2终端不限速）  
 ****
 ###### :white_check_mark:[Tink](https://tinkhub.me/#/register?code=l6ckw89Z)  
 免费：0元/1T/月  
 最低付费套餐：3元/1T/月  
 ****
-###### :white_check_mark:[SSR-SUB](https://sub.ssrsub.com/#/register?code=cgoqnEpe)  
-免费：0元/50G/季，抵扣码：ssrsub-999  
-最低付费套餐：无
+
 
 </details>
 
