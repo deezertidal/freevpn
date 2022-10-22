@@ -92,7 +92,9 @@
 免费：0元/1T/月  
 最低付费套餐：3元/1T/月  
 ****
-
-
+###### :white_check_mark:[雀巢](https://www.cloudorg.uk/#/register?code=lQjxzoW7)
+免费：0元/1T/月  
+最低付费套餐：无
+****
 </details>
 
