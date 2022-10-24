@@ -2,7 +2,10 @@
                                         
 </details>
  
-#### [小火箭配置/surge模块](https://github.com/deezertidal/shadowrocket-rules/blob/main/README.md)，[Loon配置脚本插件](https://github.com/deezertidal/private/blob/main/README.md)，[上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
+#### [小火箭模块](https://github.com/deezertidal/shadowrocket-rules/blob/main/README.md)  
+#### [Surge模块](https://github.com/deezertidal/Surge_Module/blob/master/README.md)  
+#### [Loon插件](https://github.com/deezertidal/private/blob/main/README.md)  
+#### [QuantumultX重写](https://github.com/deezertidal/QuantumultX-Rewrite/blob/master/README.md)    
 ****
 * 免费与付费有质的区别，不要对免费期待过高  
 * 如需付费机场，请移步至[中高端机场分享](https://github.com/deezertidal/fee-based/blob/main/README.md)  
