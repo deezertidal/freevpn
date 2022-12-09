@@ -19,15 +19,15 @@
 最低付费套餐：5元/1000G/月（不限终端，不限速，解锁流媒体）  
 ![Image text](https://github.com/deezertidal/freevpn/blob/main/img/EMO.png)  
 ****
-### :white_check_mark:[免流骚](https://xn--94q649dc94a.com/#/register?code=UASNw8bW)  
-免费：无  
-最低付费套餐：3元/50G/月，全免流端口,不限终端不限速  
-![Image text](https://github.com/deezertidal/freevpn/blob/main/img/mls.png)    
-****
+
 <details>
 
 <summary>点击展开其他机场</summary>
-
+  
+###### :white_check_mark:[免流骚](https://xn--94q649dc94a.com/#/register?code=UASNw8bW)  
+免费：无  
+最低付费套餐：3元/50G/月，全免流端口,不限终端不限速  
+****
 ###### :white_check_mark:[WELINK](https://t.me/welink345bot?start=15fEi4Y5)  
 免费：~~telegram注册，通过签到积分可长期免费。32G/月。~~  
 最低付费套餐：6元/64G/月（不限终端不限速，解锁流媒体）  
