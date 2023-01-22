@@ -16,9 +16,9 @@
 
 <summary>点击展开其他机场</summary>
   
-### :white_check_mark:[免流骚](https://xn--94q649dc94a.com/#/register?code=UASNw8bW)  
-免费：无  
-最低付费套餐：3元/50G/月，全免流端口,不限终端不限速  
+### :white_check_mark:[中国国际机场（免流）](https://ucloud.lol/#/register?code=7XFiaRjE)  
+免费：   
+最低付费套餐：1元测试套餐，7元/月/1288G。含国内免流节点
 ****
 ### :white_check_mark:[做个快乐的人](http://yun.moonfree.top/#/register?code=GZ5PcVIL)  
 免费：0元10G    
