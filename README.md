@@ -1,5 +1,5 @@
 # :airplane:免费公益机场分享 
-                         
+                          
 ## :white_check_mark:[Magic School](https://2220.it/register?aff=GNs68S4XWT)  
 * ##### 专属八折优惠码shadycn（活动套餐除外）
 免费：暂无  
