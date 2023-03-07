@@ -16,7 +16,7 @@
 
 <summary>点击展开其他机场</summary>
   
-### :white_check_mark:[中国国际机场（免流）](https://ucloud.lol/#/register?code=7XFiaRjE)  
+### :white_check_mark:[中国国际机场（免流）](https://cnnic.pub/#/register?code=7XFiaRjE)  
 免费：   
 最低付费套餐：1元测试套餐，7元/月/1288G。含国内免流节点
 ****
