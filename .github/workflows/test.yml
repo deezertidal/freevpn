@@ -1,9 +1,9 @@
 name: Update repository
 on:
   schedule:
-    - cron: '20 20 * * *'
+    - cron: '30 23 * * *'
       job: add_empty_file
-    - cron: '20 8 * * *'
+    - cron: '30 11 * * *'
       job: remove_empty_file
   workflow_dispatch:
 jobs:
