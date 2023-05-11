@@ -19,6 +19,9 @@ jobs:
         with:
           args: --output /tmp/lychee/out.md --verbose --no-progress --exclude 'deezertidal.github.io/.git' 'deezertidal.github.io/**'
 
+      - name: Save report to GITHUB_STATE
+        run: echo "report=${{ steps.lychee.outputs.report }}" >> $GITHUB_STATE
+
       - name: Check out freevpn repository
         uses: actions/checkout@v3
         with:
@@ -26,10 +29,10 @@ jobs:
 
       - name: Save report to freevpn repository
         run: |
-          echo "${{ steps.lychee.outputs.report }}" > freevpn/broken-links-report.txt
+          echo "${{ env.report }}" > freevpn/broken-links-report.txt
           cd freevpn
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add broken-links-report.txt
           git commit -m "Update broken links report"
-          git push
+          git push 
