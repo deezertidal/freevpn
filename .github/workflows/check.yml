@@ -12,7 +12,8 @@ jobs:
         with:
           repository: deezertidal/deezertidal.github.io
           path: deezertidal.github.io
-
+      - name: List contents of deezertidal.github.io directory
+        run: ls -al deezertidal.github.io
       - name: Check broken links
         id: lychee
         uses: lycheeverse/lychee-action@v1.0.9
