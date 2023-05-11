@@ -18,7 +18,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.0.9
         with:
-          args: --verbose --no-progress deezertidal.github.io/**
+          args: --verbose --no-progress deezertidal.github.io
 
       - name: Check out f
         uses: actions/checkout@v3
