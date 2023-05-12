@@ -1,4 +1,4 @@
-0512231034 ...
+0512231044 ...
 ./rewrite/widgetsmith.conf is NOT in UTF-8 encoding
 ./rewrite/colorweather.conf is NOT in UTF-8 encoding
 ./rewrite/seven.conf is NOT in UTF-8 encoding
@@ -278,7 +278,7 @@
 ./rewrite/aqc.conf is NOT in UTF-8 encoding
 ./rewrite/hbxw.conf is NOT in UTF-8 encoding
 ./rewrite/multisearch.conf is NOT in UTF-8 encoding
-./config/shadowrocket_basic.conf is in UTF-8 encoding
+./config/shadowrocket_basic.conf is NOT in UTF-8 encoding
 ./module/gzrj.module is NOT in UTF-8 encoding
 ./module/cdzs.module is NOT in UTF-8 encoding
 ./module/hx.module is NOT in UTF-8 encoding
