@@ -1,855 +1,855 @@
-0512231044 ...
-./rewrite/widgetsmith.conf is NOT in UTF-8 encoding
-./rewrite/colorweather.conf is NOT in UTF-8 encoding
-./rewrite/seven.conf is NOT in UTF-8 encoding
-./rewrite/duitang.conf is NOT in UTF-8 encoding
-./rewrite/vivacut.conf is NOT in UTF-8 encoding
-./rewrite/todo.conf is NOT in UTF-8 encoding
-./rewrite/qnhb.conf is NOT in UTF-8 encoding
-./rewrite/panda.conf is NOT in UTF-8 encoding
-./rewrite/usage.conf is NOT in UTF-8 encoding
-./rewrite/egdd.conf is NOT in UTF-8 encoding
-./rewrite/zymk.conf is NOT in UTF-8 encoding
-./rewrite/meistertask.conf is NOT in UTF-8 encoding
-./rewrite/colorwidgets.conf is NOT in UTF-8 encoding
-./rewrite/yczjz.conf is NOT in UTF-8 encoding
-./rewrite/NoMoCam.conf is NOT in UTF-8 encoding
-./rewrite/emote.conf is NOT in UTF-8 encoding
-./rewrite/mdmanhua.conf is NOT in UTF-8 encoding
-./rewrite/fnv.conf is NOT in UTF-8 encoding
-./rewrite/whqsy.conf is NOT in UTF-8 encoding
-./rewrite/appraven.conf is NOT in UTF-8 encoding
-./rewrite/sgsz.conf is NOT in UTF-8 encoding
-./rewrite/htjzb.conf is NOT in UTF-8 encoding
-./rewrite/smbq.conf is NOT in UTF-8 encoding
-./rewrite/rzxj.conf is NOT in UTF-8 encoding
-./rewrite/mondly.conf is NOT in UTF-8 encoding
-./rewrite/qifu.conf is NOT in UTF-8 encoding
-./rewrite/rrsp.conf is NOT in UTF-8 encoding
-./rewrite/doc.conf is NOT in UTF-8 encoding
-./rewrite/zebra.conf is NOT in UTF-8 encoding
-./rewrite/baimiao.conf is NOT in UTF-8 encoding
-./rewrite/invideo.conf is NOT in UTF-8 encoding
-./rewrite/craft.conf is NOT in UTF-8 encoding
-./rewrite/peiyin.conf is NOT in UTF-8 encoding
-./rewrite/gscdq.conf is NOT in UTF-8 encoding
-./rewrite/jianxun.conf is NOT in UTF-8 encoding
-./rewrite/pixelcut.conf is NOT in UTF-8 encoding
-./rewrite/ptj.conf is NOT in UTF-8 encoding
-./rewrite/WPS.conf is NOT in UTF-8 encoding
-./rewrite/weiboad.conf is NOT in UTF-8 encoding
-./rewrite/vcus.conf is NOT in UTF-8 encoding
-./rewrite/jkyd.conf is NOT in UTF-8 encoding
-./rewrite/vista.conf is NOT in UTF-8 encoding
-./rewrite/hyxc.conf is NOT in UTF-8 encoding
-./rewrite/judou.conf is NOT in UTF-8 encoding
-./rewrite/amj.conf is NOT in UTF-8 encoding
-./rewrite/fomz.conf is NOT in UTF-8 encoding
-./rewrite/wfw.conf is NOT in UTF-8 encoding
-./rewrite/mtywj.conf is NOT in UTF-8 encoding
-./rewrite/smwd.conf is NOT in UTF-8 encoding
-./rewrite/imuseum.conf is NOT in UTF-8 encoding
-./rewrite/sjsmy.conf is NOT in UTF-8 encoding
-./rewrite/fimo.conf is NOT in UTF-8 encoding
-./rewrite/bazaart.conf is NOT in UTF-8 encoding
-./rewrite/nfc.conf is NOT in UTF-8 encoding
-./rewrite/audiomack.conf is NOT in UTF-8 encoding
-./rewrite/jsgx.conf is NOT in UTF-8 encoding
-./rewrite/tenpercent.conf is NOT in UTF-8 encoding
-./rewrite/sorted.conf is NOT in UTF-8 encoding
-./rewrite/ilovepdf.conf is NOT in UTF-8 encoding
-./rewrite/wscsds.conf is NOT in UTF-8 encoding
-./rewrite/ydcd.conf is NOT in UTF-8 encoding
-./rewrite/peak.conf is NOT in UTF-8 encoding
-./rewrite/gql.conf is NOT in UTF-8 encoding
-./rewrite/wxds.conf is NOT in UTF-8 encoding
-./rewrite/wechatread.conf is NOT in UTF-8 encoding
-./rewrite/ttd.conf is NOT in UTF-8 encoding
-./rewrite/accu.conf is NOT in UTF-8 encoding
-./rewrite/peiyinxiu.conf is NOT in UTF-8 encoding
-./rewrite/absqgs.conf is NOT in UTF-8 encoding
-./rewrite/notboring.conf is NOT in UTF-8 encoding
-./rewrite/clarity.conf is NOT in UTF-8 encoding
-./rewrite/artp.conf is NOT in UTF-8 encoding
-./rewrite/xrk.conf is NOT in UTF-8 encoding
-./rewrite/4in1.conf is NOT in UTF-8 encoding
-./rewrite/gddt.conf is NOT in UTF-8 encoding
-./rewrite/ly.conf is NOT in UTF-8 encoding
-./rewrite/mksp.conf is NOT in UTF-8 encoding
-./rewrite/iam.conf is NOT in UTF-8 encoding
-./rewrite/memrise.conf is NOT in UTF-8 encoding
-./rewrite/wxts.conf is NOT in UTF-8 encoding
-./rewrite/xmind.conf is NOT in UTF-8 encoding
-./rewrite/arpdfbj.conf is NOT in UTF-8 encoding
-./rewrite/pocketlists.conf is NOT in UTF-8 encoding
-./rewrite/oldroll.conf is NOT in UTF-8 encoding
-./rewrite/pdfviewer.conf is NOT in UTF-8 encoding
-./rewrite/kika.conf is NOT in UTF-8 encoding
-./rewrite/zjsg.conf is NOT in UTF-8 encoding
-./rewrite/lsdyw.conf is NOT in UTF-8 encoding
-./rewrite/aliyun.conf is NOT in UTF-8 encoding
-./rewrite/collart.conf is NOT in UTF-8 encoding
-./rewrite/kepai.conf is NOT in UTF-8 encoding
-./rewrite/xxyq.conf is NOT in UTF-8 encoding
-./rewrite/yunting.conf is NOT in UTF-8 encoding
-./rewrite/dsbj.conf is NOT in UTF-8 encoding
-./rewrite/myplate.conf is NOT in UTF-8 encoding
-./rewrite/mklwt.conf is NOT in UTF-8 encoding
-./rewrite/ydybj.conf is NOT in UTF-8 encoding
-./rewrite/ppx.conf is NOT in UTF-8 encoding
-./rewrite/CamScanner.conf is NOT in UTF-8 encoding
-./rewrite/ddsyxj.conf is NOT in UTF-8 encoding
-./rewrite/keep.conf is NOT in UTF-8 encoding
-./rewrite/NodeLinkCheck.conf is NOT in UTF-8 encoding
-./rewrite/polarr.conf is NOT in UTF-8 encoding
-./rewrite/xzj.conf is NOT in UTF-8 encoding
-./rewrite/vsco.conf is NOT in UTF-8 encoding
-./rewrite/jssmy.conf is NOT in UTF-8 encoding
-./rewrite/mojo.conf is NOT in UTF-8 encoding
-./rewrite/motivation.conf is NOT in UTF-8 encoding
-./rewrite/retake.conf is NOT in UTF-8 encoding
-./rewrite/xcz.conf is NOT in UTF-8 encoding
-./rewrite/yitian.conf is NOT in UTF-8 encoding
-./rewrite/proknockout.conf is NOT in UTF-8 encoding
-./rewrite/chic.conf is NOT in UTF-8 encoding
-./rewrite/aptv.conf is NOT in UTF-8 encoding
-./rewrite/lightroom.conf is NOT in UTF-8 encoding
-./rewrite/yiyan.conf is NOT in UTF-8 encoding
-./rewrite/efekt.conf is NOT in UTF-8 encoding
-./rewrite/cp.conf is NOT in UTF-8 encoding
-./rewrite/hbetgs.conf is NOT in UTF-8 encoding
-./rewrite/ztc.conf is NOT in UTF-8 encoding
-./rewrite/wnbsq.conf is NOT in UTF-8 encoding
-./rewrite/KuwoVip.conf is NOT in UTF-8 encoding
-./rewrite/prettyup.conf is NOT in UTF-8 encoding
-./rewrite/pillow.conf is NOT in UTF-8 encoding
-./rewrite/darkroom.conf is NOT in UTF-8 encoding
-./rewrite/lifeviewer.conf is NOT in UTF-8 encoding
-./rewrite/wdfq.conf is NOT in UTF-8 encoding
-./rewrite/now.conf is NOT in UTF-8 encoding
-./rewrite/symbolab.conf is NOT in UTF-8 encoding
-./rewrite/hsfs.conf is NOT in UTF-8 encoding
-./rewrite/tpp.conf is NOT in UTF-8 encoding
-./rewrite/smallpdf.conf is NOT in UTF-8 encoding
-./rewrite/ypjj.conf is NOT in UTF-8 encoding
-./rewrite/https.conf is NOT in UTF-8 encoding
-./rewrite/pandora.conf is NOT in UTF-8 encoding
-./rewrite/iRingo_TestFlight.conf is NOT in UTF-8 encoding
-./rewrite/stsq.conf is NOT in UTF-8 encoding
-./rewrite/moneythings.conf is NOT in UTF-8 encoding
-./rewrite/ysyk.conf is NOT in UTF-8 encoding
-./rewrite/bdwk.conf is NOT in UTF-8 encoding
-./rewrite/bfs.conf is NOT in UTF-8 encoding
-./rewrite/mdsz.conf is NOT in UTF-8 encoding
-./rewrite/sndd.conf is NOT in UTF-8 encoding
-./rewrite/ego.conf is NOT in UTF-8 encoding
-./rewrite/ymjz.conf is NOT in UTF-8 encoding
-./rewrite/fyjh.conf is NOT in UTF-8 encoding
-./rewrite/documents.conf is NOT in UTF-8 encoding
-./rewrite/nicegram.conf is NOT in UTF-8 encoding
-./rewrite/kuwo-unlock.conf is NOT in UTF-8 encoding
-./rewrite/grow.conf is NOT in UTF-8 encoding
-./rewrite/calm.conf is NOT in UTF-8 encoding
-./rewrite/nybz.conf is NOT in UTF-8 encoding
-./rewrite/bdsp.conf is NOT in UTF-8 encoding
-./rewrite/Emby.conf is NOT in UTF-8 encoding
-./rewrite/cubox.conf is NOT in UTF-8 encoding
-./rewrite/startingad.conf is NOT in UTF-8 encoding
-./rewrite/dalanjing.conf is NOT in UTF-8 encoding
-./rewrite/photomath.conf is NOT in UTF-8 encoding
-./rewrite/alarmy.conf is NOT in UTF-8 encoding
-./rewrite/meituxx.conf is NOT in UTF-8 encoding
-./rewrite/Tidal-HiFi.conf is NOT in UTF-8 encoding
-./rewrite/pixelance.conf is NOT in UTF-8 encoding
-./rewrite/DisableUpdate.conf is NOT in UTF-8 encoding
-./rewrite/youtube.conf is NOT in UTF-8 encoding
-./rewrite/lgzj.conf is NOT in UTF-8 encoding
-./rewrite/ft.conf is NOT in UTF-8 encoding
-./rewrite/ky.conf is NOT in UTF-8 encoding
-./rewrite/percento.conf is NOT in UTF-8 encoding
-./rewrite/hzk.conf is NOT in UTF-8 encoding
-./rewrite/iconkiller.conf is NOT in UTF-8 encoding
-./rewrite/gzrj.conf is NOT in UTF-8 encoding
-./rewrite/myfitnesspal.conf is NOT in UTF-8 encoding
-./rewrite/zt.conf is NOT in UTF-8 encoding
-./rewrite/lingokids.conf is NOT in UTF-8 encoding
-./rewrite/bsxm.conf is NOT in UTF-8 encoding
-./rewrite/cdzs.conf is NOT in UTF-8 encoding
-./rewrite/tangerine.conf is NOT in UTF-8 encoding
-./rewrite/wdqd.conf is NOT in UTF-8 encoding
-./rewrite/dayone.conf is NOT in UTF-8 encoding
-./rewrite/aloha.conf is NOT in UTF-8 encoding
-./rewrite/dsj.conf is NOT in UTF-8 encoding
-./rewrite/wechatad.conf is NOT in UTF-8 encoding
-./rewrite/varlens.conf is NOT in UTF-8 encoding
-./rewrite/zhsck.conf is NOT in UTF-8 encoding
-./rewrite/1blocker.conf is NOT in UTF-8 encoding
-./rewrite/mbdt.conf is NOT in UTF-8 encoding
-./rewrite/qmxs.conf is NOT in UTF-8 encoding
-./rewrite/fabulous.conf is NOT in UTF-8 encoding
-./rewrite/grammarly.conf is NOT in UTF-8 encoding
-./rewrite/emmo.conf is NOT in UTF-8 encoding
-./rewrite/xiaoying.conf is NOT in UTF-8 encoding
-./rewrite/tokcam.conf is NOT in UTF-8 encoding
-./rewrite/xzjhz.conf is NOT in UTF-8 encoding
-./rewrite/meipian.conf is NOT in UTF-8 encoding
-./rewrite/giftr.conf is NOT in UTF-8 encoding
-./rewrite/ssa.conf is NOT in UTF-8 encoding
-./rewrite/B-Search.conf is NOT in UTF-8 encoding
-./rewrite/boom.conf is NOT in UTF-8 encoding
-./rewrite/wallcraft.conf is NOT in UTF-8 encoding
-./rewrite/kprj.conf is NOT in UTF-8 encoding
-./rewrite/photoshop.conf is NOT in UTF-8 encoding
-./rewrite/jibjab.conf is NOT in UTF-8 encoding
-./rewrite/hyzm.conf is NOT in UTF-8 encoding
-./rewrite/hyxj.conf is NOT in UTF-8 encoding
-./rewrite/Ratings.conf is NOT in UTF-8 encoding
-./rewrite/xmlyad.conf is NOT in UTF-8 encoding
-./rewrite/watchout.conf is NOT in UTF-8 encoding
-./rewrite/Bodian.conf is NOT in UTF-8 encoding
-./rewrite/dyd.conf is NOT in UTF-8 encoding
-./rewrite/smxcgj.conf is NOT in UTF-8 encoding
-./rewrite/wnds.conf is NOT in UTF-8 encoding
-./rewrite/calculator.conf is NOT in UTF-8 encoding
-./rewrite/caixin.conf is NOT in UTF-8 encoding
-./rewrite/yjhl.conf is NOT in UTF-8 encoding
-./rewrite/drafts.conf is NOT in UTF-8 encoding
-./rewrite/mht.conf is NOT in UTF-8 encoding
-./rewrite/arbc.conf is NOT in UTF-8 encoding
-./rewrite/fanqienovel.conf is NOT in UTF-8 encoding
-./rewrite/SpotifyPremium.conf is NOT in UTF-8 encoding
-./rewrite/BedtimeFan.conf is NOT in UTF-8 encoding
-./rewrite/caiyun.conf is NOT in UTF-8 encoding
-./rewrite/rq.conf is NOT in UTF-8 encoding
-./rewrite/shadowlinkvpn.conf is NOT in UTF-8 encoding
-./rewrite/cxs.conf is NOT in UTF-8 encoding
-./rewrite/fileball.conf is NOT in UTF-8 encoding
-./rewrite/lls.conf is NOT in UTF-8 encoding
-./rewrite/qj.conf is NOT in UTF-8 encoding
-./rewrite/styleart.conf is NOT in UTF-8 encoding
-./rewrite/picsart.conf is NOT in UTF-8 encoding
-./rewrite/ljtq.conf is NOT in UTF-8 encoding
-./rewrite/soundcloud.conf is NOT in UTF-8 encoding
-./rewrite/sc.conf is NOT in UTF-8 encoding
-./rewrite/mix.conf is NOT in UTF-8 encoding
-./rewrite/7dong.conf is NOT in UTF-8 encoding
-./rewrite/daily-yoga.conf is NOT in UTF-8 encoding
-./rewrite/hbgc.conf is NOT in UTF-8 encoding
-./rewrite/fantastical.conf is NOT in UTF-8 encoding
-./rewrite/Price.conf is NOT in UTF-8 encoding
-./rewrite/jjyc.conf is NOT in UTF-8 encoding
-./rewrite/thunder.conf is NOT in UTF-8 encoding
-./rewrite/faintv.conf is NOT in UTF-8 encoding
-./rewrite/endel.conf is NOT in UTF-8 encoding
-./rewrite/ywqpy.conf is NOT in UTF-8 encoding
-./rewrite/bili.conf is NOT in UTF-8 encoding
-./rewrite/musixmatch.conf is NOT in UTF-8 encoding
-./rewrite/flomo.conf is NOT in UTF-8 encoding
-./rewrite/agenda.conf is NOT in UTF-8 encoding
-./rewrite/xjsp.conf is NOT in UTF-8 encoding
-./rewrite/biliad.conf is NOT in UTF-8 encoding
-./rewrite/wsgj.conf is NOT in UTF-8 encoding
-./rewrite/ellabook.conf is NOT in UTF-8 encoding
-./rewrite/xxg.conf is NOT in UTF-8 encoding
-./rewrite/klx.conf is NOT in UTF-8 encoding
-./rewrite/tutu.conf is NOT in UTF-8 encoding
-./rewrite/iscreen.conf is NOT in UTF-8 encoding
-./rewrite/BaiduCloud.conf is NOT in UTF-8 encoding
-./rewrite/dzqj.conf is NOT in UTF-8 encoding
-./rewrite/rmrb.conf is NOT in UTF-8 encoding
-./rewrite/piccollage.conf is NOT in UTF-8 encoding
-./rewrite/hyperweb.conf is NOT in UTF-8 encoding
-./rewrite/ai.conf is NOT in UTF-8 encoding
-./rewrite/molycam.conf is NOT in UTF-8 encoding
-./rewrite/adguard.conf is NOT in UTF-8 encoding
-./rewrite/zjbj.conf is NOT in UTF-8 encoding
-./rewrite/relens.conf is NOT in UTF-8 encoding
-./rewrite/planny.conf is NOT in UTF-8 encoding
-./rewrite/pixiv.conf is NOT in UTF-8 encoding
-./rewrite/b612.conf is NOT in UTF-8 encoding
-./rewrite/AdBlock.conf is NOT in UTF-8 encoding
-./rewrite/nt.conf is NOT in UTF-8 encoding
-./rewrite/notability.conf is NOT in UTF-8 encoding
-./rewrite/apowersoft.conf is NOT in UTF-8 encoding
-./rewrite/ceo.conf is NOT in UTF-8 encoding
-./rewrite/hx.conf is NOT in UTF-8 encoding
-./rewrite/xyts.conf is NOT in UTF-8 encoding
-./rewrite/zhitiao.conf is NOT in UTF-8 encoding
-./rewrite/aqc.conf is NOT in UTF-8 encoding
-./rewrite/hbxw.conf is NOT in UTF-8 encoding
-./rewrite/multisearch.conf is NOT in UTF-8 encoding
-./config/shadowrocket_basic.conf is NOT in UTF-8 encoding
-./module/gzrj.module is NOT in UTF-8 encoding
-./module/cdzs.module is NOT in UTF-8 encoding
-./module/hx.module is NOT in UTF-8 encoding
-./module/wallcraft.module is NOT in UTF-8 encoding
-./module/peiyinxiu.module is NOT in UTF-8 encoding
-./module/symbolab.module is NOT in UTF-8 encoding
-./module/ydcd.module is NOT in UTF-8 encoding
-./module/4in1.module is NOT in UTF-8 encoding
-./module/ai.module is NOT in UTF-8 encoding
-./module/ptj.module is NOT in UTF-8 encoding
-./module/hbgc.module is NOT in UTF-8 encoding
-./module/notability.module is NOT in UTF-8 encoding
-./module/musixmatch.module is NOT in UTF-8 encoding
-./module/ky.module is NOT in UTF-8 encoding
-./module/fyjh.module is NOT in UTF-8 encoding
-./module/cxs.module is NOT in UTF-8 encoding
-./module/keep.module is NOT in UTF-8 encoding
-./module/tokcam.module is NOT in UTF-8 encoding
-./module/widgetsmith.module is NOT in UTF-8 encoding
-./module/wfw.module is NOT in UTF-8 encoding
-./module/judou.module is NOT in UTF-8 encoding
-./module/pixelcut.module is NOT in UTF-8 encoding
-./module/smallpdf.module is NOT in UTF-8 encoding
-./module/drafts.module is NOT in UTF-8 encoding
-./module/agenda.module is NOT in UTF-8 encoding
-./module/relens.module is NOT in UTF-8 encoding
-./module/xzjhz.module is NOT in UTF-8 encoding
-./module/ydybj.module is NOT in UTF-8 encoding
-./module/xzj.module is NOT in UTF-8 encoding
-./module/polarr.module is NOT in UTF-8 encoding
-./module/ego.module is NOT in UTF-8 encoding
-./module/stsq.module is NOT in UTF-8 encoding
-./module/colorwidgets.module is NOT in UTF-8 encoding
-./module/xiaoying.module is NOT in UTF-8 encoding
-./module/adguard.module is NOT in UTF-8 encoding
-./module/mondly.module is NOT in UTF-8 encoding
-./module/ZhihuOpt.sgmodule is NOT in UTF-8 encoding
-./module/qifu.module is NOT in UTF-8 encoding
-./module/xmlyad.module is NOT in UTF-8 encoding
-./module/htjzb.module is NOT in UTF-8 encoding
-./module/WeiboBlock.sgmodule is NOT in UTF-8 encoding
-./module/zt.module is NOT in UTF-8 encoding
-./module/prettyup.module is NOT in UTF-8 encoding
-./module/motivation.module is NOT in UTF-8 encoding
-./module/rmrb.module is NOT in UTF-8 encoding
-./module/emby.sgmodule is NOT in UTF-8 encoding
-./module/cubox.sgmodule is NOT in UTF-8 encoding
-./module/nybz.module is NOT in UTF-8 encoding
-./module/fileball.module is NOT in UTF-8 encoding
-./module/lingokids.module is NOT in UTF-8 encoding
-./module/hzk.module is NOT in UTF-8 encoding
-./module/7dong.module is NOT in UTF-8 encoding
-./module/sc.module is NOT in UTF-8 encoding
-./module/qmxs.module is NOT in UTF-8 encoding
-./module/pillow.module is NOT in UTF-8 encoding
-./module/startingad.module is NOT in UTF-8 encoding
-./module/amj.module is NOT in UTF-8 encoding
-./module/ypjj.module is NOT in UTF-8 encoding
-./module/shadowlinkVPN.module is NOT in UTF-8 encoding
-./module/1blocker.module is NOT in UTF-8 encoding
-./module/kepai.module is NOT in UTF-8 encoding
-./module/iscreen.module is NOT in UTF-8 encoding
-./module/egdd.module is NOT in UTF-8 encoding
-./module/rrsp.module is NOT in UTF-8 encoding
-./module/lgzj.module is NOT in UTF-8 encoding
-./module/jjyc.module is NOT in UTF-8 encoding
-./module/ellabook.module is NOT in UTF-8 encoding
-./module/arpdfbj.module is NOT in UTF-8 encoding
-./module/spotifyVIP.module is NOT in UTF-8 encoding
-./module/craft.module is NOT in UTF-8 encoding
-./module/myplate.module is NOT in UTF-8 encoding
-./module/ilovepdf.module is NOT in UTF-8 encoding
-./module/bsxm.module is NOT in UTF-8 encoding
-./module/smbq.module is NOT in UTF-8 encoding
-./module/pocketlists.module is NOT in UTF-8 encoding
-./module/mtywj.module is NOT in UTF-8 encoding
-./module/accu.module is NOT in UTF-8 encoding
-./module/aosoft.module is NOT in UTF-8 encoding
-./module/YouTubeAd.sgmodule is NOT in UTF-8 encoding
-./module/camscanner.sgmodule is NOT in UTF-8 encoding
-./module/emmo.module is NOT in UTF-8 encoding
-./module/proknockout.module is NOT in UTF-8 encoding
-./module/wnds.module is NOT in UTF-8 encoding
-./module/alarmy.module is NOT in UTF-8 encoding
-./module/vivacut.module is NOT in UTF-8 encoding
-./module/kprj.module is NOT in UTF-8 encoding
-./module/mix-camera.module is NOT in UTF-8 encoding
-./module/weiboad.module is NOT in UTF-8 encoding
-./module/pdfviewer.module is NOT in UTF-8 encoding
-./module/appraven.module is NOT in UTF-8 encoding
-./module/flomo.module is NOT in UTF-8 encoding
-./module/wdfq.module is NOT in UTF-8 encoding
-./module/picsart.module is NOT in UTF-8 encoding
-./module/percento.module is NOT in UTF-8 encoding
-./module/smwd.module is NOT in UTF-8 encoding
-./module/weibolitead.module is NOT in UTF-8 encoding
-./module/dsbj.module is NOT in UTF-8 encoding
-./module/aptv.module is NOT in UTF-8 encoding
-./module/wscsds.module is NOT in UTF-8 encoding
-./module/sgsz.module is NOT in UTF-8 encoding
-./module/pandora.module is NOT in UTF-8 encoding
-./module/substore.sgmodule is NOT in UTF-8 encoding
-./module/ly.module is NOT in UTF-8 encoding
-./module/smxcgj.module is NOT in UTF-8 encoding
-./module/ljtq.module is NOT in UTF-8 encoding
-./module/gddt.module is NOT in UTF-8 encoding
-./module/styleart.module is NOT in UTF-8 encoding
-./module/imuseum.module is NOT in UTF-8 encoding
-./module/ymjz.module is NOT in UTF-8 encoding
-./module/jkyd.module is NOT in UTF-8 encoding
-./module/clarity.module is NOT in UTF-8 encoding
-./module/caixin.module is NOT in UTF-8 encoding
-./module/fabulous.module is NOT in UTF-8 encoding
-./module/jsgx.module is NOT in UTF-8 encoding
-./module/yunting.module is NOT in UTF-8 encoding
-./module/emote.module is NOT in UTF-8 encoding
-./module/oil.module is NOT in UTF-8 encoding
-./module/vcus.module is NOT in UTF-8 encoding
-./module/panda.module is NOT in UTF-8 encoding
-./module/cp.module is NOT in UTF-8 encoding
-./module/lls.module is NOT in UTF-8 encoding
-./module/seven.module is NOT in UTF-8 encoding
-./module/qj.module is NOT in UTF-8 encoding
-./module/xyts.module is NOT in UTF-8 encoding
-./module/bdsp.module is NOT in UTF-8 encoding
-./module/dzqj.module is NOT in UTF-8 encoding
-./module/caiyun_cron.module is NOT in UTF-8 encoding
-./module/zymk.module is NOT in UTF-8 encoding
-./module/bili.module is NOT in UTF-8 encoding
-./module/zjsg.module is NOT in UTF-8 encoding
-./module/vsco.module is NOT in UTF-8 encoding
-./module/fantastical.module is NOT in UTF-8 encoding
-./module/meistertask.module is NOT in UTF-8 encoding
-./module/collart.module is NOT in UTF-8 encoding
-./module/invideo.module is NOT in UTF-8 encoding
-./module/ywqpy.module is NOT in UTF-8 encoding
-./module/tenpercent.module is NOT in UTF-8 encoding
-./module/jianxun.module is NOT in UTF-8 encoding
-./module/hyperweb.module is NOT in UTF-8 encoding
-./module/bfs.module is NOT in UTF-8 encoding
-./module/tpp.module is NOT in UTF-8 encoding
-./module/mksp.module is NOT in UTF-8 encoding
-./module/sndd.module is NOT in UTF-8 encoding
-./module/https.module is NOT in UTF-8 encoding
-./module/kuwo-unlock.sgmodule is NOT in UTF-8 encoding
-./module/kuwovip.sgmodule is NOT in UTF-8 encoding
-./module/spotify_lyric.module is NOT in UTF-8 encoding
-./module/nfc.module is NOT in UTF-8 encoding
-./module/tutu.module is NOT in UTF-8 encoding
-./module/zhitiao.module is NOT in UTF-8 encoding
-./module/wechatread.module is NOT in UTF-8 encoding
-./module/vista.module is NOT in UTF-8 encoding
-./module/hyxc.module is NOT in UTF-8 encoding
-./module/hyxj.module is NOT in UTF-8 encoding
-./module/yifeigif.module is NOT in UTF-8 encoding
-./module/documents.module is NOT in UTF-8 encoding
-./module/fanqie.module is NOT in UTF-8 encoding
-./module/ssa.module is NOT in UTF-8 encoding
-./module/aliyun.module is NOT in UTF-8 encoding
-./module/fimo.module is NOT in UTF-8 encoding
-./module/wdqd.module is NOT in UTF-8 encoding
-./module/jssmy.module is NOT in UTF-8 encoding
-./module/tianqi.module is NOT in UTF-8 encoding
-./module/soundcloud.module is NOT in UTF-8 encoding
-./module/rzxj.module is NOT in UTF-8 encoding
-./module/nomocam.module is NOT in UTF-8 encoding
-./module/yjhl.module is NOT in UTF-8 encoding
-./module/tangerine.module is NOT in UTF-8 encoding
-./module/arbc.module is NOT in UTF-8 encoding
-./module/wsgj.module is NOT in UTF-8 encoding
-./module/sorted.module is NOT in UTF-8 encoding
-./module/hbetgs.module is NOT in UTF-8 encoding
-./module/mdmanhua.module is NOT in UTF-8 encoding
-./module/hbxw.module is NOT in UTF-8 encoding
-./module/absqgs.module is NOT in UTF-8 encoding
-./module/mht.module is NOT in UTF-8 encoding
-./module/artp.module is NOT in UTF-8 encoding
-./module/dalanjing.module is NOT in UTF-8 encoding
-./module/Qsearch.sgmodule is NOT in UTF-8 encoding
-./module/xcz.module is NOT in UTF-8 encoding
-./module/oldroll.module is NOT in UTF-8 encoding
-./module/AdBlock.module is NOT in UTF-8 encoding
-./module/qnhb.module is NOT in UTF-8 encoding
-./module/hyzm.module is NOT in UTF-8 encoding
-./module/ppx.module is NOT in UTF-8 encoding
-./module/boom.module is NOT in UTF-8 encoding
-./module/ceo.module is NOT in UTF-8 encoding
-./module/fnv.module is NOT in UTF-8 encoding
-./module/fomz.module is NOT in UTF-8 encoding
-./module/peak.module is NOT in UTF-8 encoding
-./module/usage.module is NOT in UTF-8 encoding
-./module/ztc.module is NOT in UTF-8 encoding
-./module/netflix_rating.sgmodule is NOT in UTF-8 encoding
-./module/lifeindex.module is NOT in UTF-8 encoding
-./module/boxjs.sgmodule is NOT in UTF-8 encoding
-./module/todo.module is NOT in UTF-8 encoding
-./module/moneythings.module is NOT in UTF-8 encoding
-./module/mojo.module is NOT in UTF-8 encoding
-./module/nicegram.module is NOT in UTF-8 encoding
-./module/rq.module is NOT in UTF-8 encoding
-./module/wps.sgmodule is NOT in UTF-8 encoding
-./module/youtubead.module is NOT in UTF-8 encoding
-./module/xrk.module is NOT in UTF-8 encoding
-./module/molycam.module is NOT in UTF-8 encoding
-./module/audiomack.module is NOT in UTF-8 encoding
-./module/sjsmy.module is NOT in UTF-8 encoding
-./module/ZhihuBlock.sgmodule is NOT in UTF-8 encoding
-./module/grow.module is NOT in UTF-8 encoding
-./module/gscdq.module is NOT in UTF-8 encoding
-./module/mklwt.module is NOT in UTF-8 encoding
-./module/duitang.module is NOT in UTF-8 encoding
-./module/bazaart.module is NOT in UTF-8 encoding
-./module/biliad.module is NOT in UTF-8 encoding
-./module/zjbj.module is NOT in UTF-8 encoding
-./module/colorweather.module is NOT in UTF-8 encoding
-./module/lsdyw.module is NOT in UTF-8 encoding
-./module/jibjab.module is NOT in UTF-8 encoding
-./module/yczjz.module is NOT in UTF-8 encoding
-./module/photomath.module is NOT in UTF-8 encoding
-./module/lightroom.module is NOT in UTF-8 encoding
-./module/dailyyoga.module is NOT in UTF-8 encoding
-./module/whqsy.module is NOT in UTF-8 encoding
-./module/xxyq.module is NOT in UTF-8 encoding
-./module/yitian.module is NOT in UTF-8 encoding
-./module/TidalPlus.sgmodule is NOT in UTF-8 encoding
-./module/memrise.module is NOT in UTF-8 encoding
-./module/nt.module is NOT in UTF-8 encoding
-./module/bili-region.module is NOT in UTF-8 encoding
-./module/ddsyxj.module is NOT in UTF-8 encoding
-./module/varlens.module is NOT in UTF-8 encoding
-./module/caiyun.module is NOT in UTF-8 encoding
-./module/ft.module is NOT in UTF-8 encoding
-./module/dsj.module is NOT in UTF-8 encoding
-./module/calculator.module is NOT in UTF-8 encoding
-./module/piccollage.module is NOT in UTF-8 encoding
-./module/retake.module is NOT in UTF-8 encoding
-./module/yiyan.module is NOT in UTF-8 encoding
-./module/wxts.module is NOT in UTF-8 encoding
-./module/WPS.module is NOT in UTF-8 encoding
-./module/b612.module is NOT in UTF-8 encoding
-./module/gql.module is NOT in UTF-8 encoding
-./module/meituxx.module is NOT in UTF-8 encoding
-./module/zebra.module is NOT in UTF-8 encoding
-./module/bedtime-fan.module is NOT in UTF-8 encoding
-./module/darkroom.module is NOT in UTF-8 encoding
-./module/chic.module is NOT in UTF-8 encoding
-./module/klx.module is NOT in UTF-8 encoding
-./module/now.module is NOT in UTF-8 encoding
-./module/dayone.module is NOT in UTF-8 encoding
-./module/kika.module is NOT in UTF-8 encoding
-./module/multisearch.module is NOT in UTF-8 encoding
-./module/efekt.module is NOT in UTF-8 encoding
-./module/aqc.module is NOT in UTF-8 encoding
-./module/zhsck.module is NOT in UTF-8 encoding
-./module/endel.module is NOT in UTF-8 encoding
-./module/xxg.module is NOT in UTF-8 encoding
-./module/calm.module is NOT in UTF-8 encoding
-./module/wxds.module is NOT in UTF-8 encoding
-./module/dyd.module is NOT in UTF-8 encoding
-./module/planny.module is NOT in UTF-8 encoding
-./module/grammarly.module is NOT in UTF-8 encoding
-./module/baiducloud.sgmodule is NOT in UTF-8 encoding
-./module/pixelance.module is NOT in UTF-8 encoding
-./module/mdsz.module is NOT in UTF-8 encoding
-./module/bdwk.module is NOT in UTF-8 encoding
-./module/thunder.module is NOT in UTF-8 encoding
-./module/xmind.module is NOT in UTF-8 encoding
-./module/notboring.module is NOT in UTF-8 encoding
-./module/wechatad.module is NOT in UTF-8 encoding
-./module/Bodian.module is NOT in UTF-8 encoding
-./module/myfitnesspal.module is NOT in UTF-8 encoding
-./module/douban.sgmodule is NOT in UTF-8 encoding
-./module/baimiao.module is NOT in UTF-8 encoding
-./module/photoshop.module is NOT in UTF-8 encoding
-./module/doc.module is NOT in UTF-8 encoding
-./module/hsfs.module is NOT in UTF-8 encoding
-./module/ysyk.module is NOT in UTF-8 encoding
-./module/watchout.module is NOT in UTF-8 encoding
-./module/aloha.module is NOT in UTF-8 encoding
-./module/wnbsq.module is NOT in UTF-8 encoding
-./module/iconkiller.module is NOT in UTF-8 encoding
-./module/ttd.module is NOT in UTF-8 encoding
-./module/mbdt.module is NOT in UTF-8 encoding
-./module/HistoryPrice.sgmodule is NOT in UTF-8 encoding
-./module/peiyin.module is NOT in UTF-8 encoding
-./module/faintv.module is NOT in UTF-8 encoding
-./module/lifeviewer.module is NOT in UTF-8 encoding
-./module/meipian.module is NOT in UTF-8 encoding
-./module/xjsp.module is NOT in UTF-8 encoding
-./plugin/planny.plugin is NOT in UTF-8 encoding
-./plugin/daily-yoga.plugin is NOT in UTF-8 encoding
-./plugin/hsfs.plugin is NOT in UTF-8 encoding
-./plugin/efekt.plugin is NOT in UTF-8 encoding
-./plugin/mdsz.plugin is NOT in UTF-8 encoding
-./plugin/gddt.plugin is NOT in UTF-8 encoding
-./plugin/bazaart.plugin is NOT in UTF-8 encoding
-./plugin/calculator.plugin is NOT in UTF-8 encoding
-./plugin/emmo.plugin is NOT in UTF-8 encoding
-./plugin/yunting.plugin is NOT in UTF-8 encoding
-./plugin/iconkiller.plugin is NOT in UTF-8 encoding
-./plugin/duitang.plugin is NOT in UTF-8 encoding
-./plugin/fyjh.plugin is NOT in UTF-8 encoding
-./plugin/symbolab.plugin is NOT in UTF-8 encoding
-./plugin/yitian.plugin is NOT in UTF-8 encoding
-./plugin/baimiao.plugin is NOT in UTF-8 encoding
-./plugin/judou.plugin is NOT in UTF-8 encoding
-./plugin/notboring.plugin is NOT in UTF-8 encoding
-./plugin/ellabook.plugin is NOT in UTF-8 encoding
-./plugin/mklwt.plugin is NOT in UTF-8 encoding
-./plugin/notability.plugin is NOT in UTF-8 encoding
-./plugin/xiaoying.plugin is NOT in UTF-8 encoding
-./plugin/styleart.plugin is NOT in UTF-8 encoding
-./plugin/cp.plugin is NOT in UTF-8 encoding
-./plugin/alarmy.plugin is NOT in UTF-8 encoding
-./plugin/ydybj.plugin is NOT in UTF-8 encoding
-./plugin/dsbj.plugin is NOT in UTF-8 encoding
-./plugin/bfs.plugin is NOT in UTF-8 encoding
-./plugin/4in1.plugin is NOT in UTF-8 encoding
-./plugin/gql.plugin is NOT in UTF-8 encoding
-./plugin/chic.plugin is NOT in UTF-8 encoding
-./plugin/xyts.plugin is NOT in UTF-8 encoding
-./plugin/qj.plugin is NOT in UTF-8 encoding
-./plugin/xxg.plugin is NOT in UTF-8 encoding
-./plugin/xxyq.plugin is NOT in UTF-8 encoding
-./plugin/tutu.plugin is NOT in UTF-8 encoding
-./plugin/iRingo_TestFlight.plugin is NOT in UTF-8 encoding
-./plugin/mix.plugin is NOT in UTF-8 encoding
-./plugin/NoMoCam.plugin is NOT in UTF-8 encoding
-./plugin/pixelcut.plugin is NOT in UTF-8 encoding
-./plugin/jjyc.plugin is NOT in UTF-8 encoding
-./plugin/hx.plugin is NOT in UTF-8 encoding
-./plugin/soundcloud.plugin is NOT in UTF-8 encoding
-./plugin/qnhb.plugin is NOT in UTF-8 encoding
-./plugin/colorweather.plugin is NOT in UTF-8 encoding
-./plugin/arbc.plugin is NOT in UTF-8 encoding
-./plugin/ypjj.plugin is NOT in UTF-8 encoding
-./plugin/wdfq.plugin is NOT in UTF-8 encoding
-./plugin/Ratings.plugin is NOT in UTF-8 encoding
-./plugin/giftr.plugin is NOT in UTF-8 encoding
-./plugin/watchout.plugin is NOT in UTF-8 encoding
-./plugin/lls.plugin is NOT in UTF-8 encoding
-./plugin/jkyd.plugin is NOT in UTF-8 encoding
-./plugin/ljtq.plugin is NOT in UTF-8 encoding
-./plugin/wxds.plugin is NOT in UTF-8 encoding
-./plugin/wechatad.plugin is NOT in UTF-8 encoding
-./plugin/https.plugin is NOT in UTF-8 encoding
-./plugin/xcz.plugin is NOT in UTF-8 encoding
-./plugin/mondly.plugin is NOT in UTF-8 encoding
-./plugin/keep.plugin is NOT in UTF-8 encoding
-./plugin/bdsp.plugin is NOT in UTF-8 encoding
-./plugin/rmrb.plugin is NOT in UTF-8 encoding
-./plugin/rrsp.plugin is NOT in UTF-8 encoding
-./plugin/jianxun.plugin is NOT in UTF-8 encoding
-./plugin/apowersoft.plugin is NOT in UTF-8 encoding
-./plugin/endel.plugin is NOT in UTF-8 encoding
-./plugin/meipian.plugin is NOT in UTF-8 encoding
-./plugin/imuseum.plugin is NOT in UTF-8 encoding
-./plugin/adguard.plugin is NOT in UTF-8 encoding
-./plugin/ymjz.plugin is NOT in UTF-8 encoding
-./plugin/seven.plugin is NOT in UTF-8 encoding
-./plugin/myfitnesspal.plugin is NOT in UTF-8 encoding
-./plugin/CamScanner.plugin is NOT in UTF-8 encoding
-./plugin/meistertask.plugin is NOT in UTF-8 encoding
-./plugin/peak.plugin is NOT in UTF-8 encoding
-./plugin/proknockout.plugin is NOT in UTF-8 encoding
-./plugin/appraven.plugin is NOT in UTF-8 encoding
-./plugin/tpp.plugin is NOT in UTF-8 encoding
-./plugin/Bodian.plugin is NOT in UTF-8 encoding
-./plugin/youtube.plugin is NOT in UTF-8 encoding
-./plugin/varlens.plugin is NOT in UTF-8 encoding
-./plugin/tokcam.plugin is NOT in UTF-8 encoding
-./plugin/aptv.plugin is NOT in UTF-8 encoding
-./plugin/memrise.plugin is NOT in UTF-8 encoding
-./plugin/ptj.plugin is NOT in UTF-8 encoding
-./plugin/ego.plugin is NOT in UTF-8 encoding
-./plugin/vcus.plugin is NOT in UTF-8 encoding
-./plugin/grammarly.plugin is NOT in UTF-8 encoding
-./plugin/nt.plugin is NOT in UTF-8 encoding
-./plugin/colorwidgets.plugin is NOT in UTF-8 encoding
-./plugin/retake.plugin is NOT in UTF-8 encoding
-./plugin/fimo.plugin is NOT in UTF-8 encoding
-./plugin/ddsyxj.plugin is NOT in UTF-8 encoding
-./plugin/zhitiao.plugin is NOT in UTF-8 encoding
-./plugin/zjbj.plugin is NOT in UTF-8 encoding
-./plugin/bili.plugin is NOT in UTF-8 encoding
-./plugin/peiyinxiu.plugin is NOT in UTF-8 encoding
-./plugin/mtywj.plugin is NOT in UTF-8 encoding
-./plugin/smwd.plugin is NOT in UTF-8 encoding
-./plugin/ydcd.plugin is NOT in UTF-8 encoding
-./plugin/caixin.plugin is NOT in UTF-8 encoding
-./plugin/xjsp.plugin is NOT in UTF-8 encoding
-./plugin/zjsg.plugin is NOT in UTF-8 encoding
-./plugin/hyperweb.plugin is NOT in UTF-8 encoding
-./plugin/qifu.plugin is NOT in UTF-8 encoding
-./plugin/lsdyw.plugin is NOT in UTF-8 encoding
-./plugin/NodeLinkCheck.plugin is NOT in UTF-8 encoding
-./plugin/BedtimeFan.plugin is NOT in UTF-8 encoding
-./plugin/polarr.plugin is NOT in UTF-8 encoding
-./plugin/7dong.plugin is NOT in UTF-8 encoding
-./plugin/hbetgs.plugin is NOT in UTF-8 encoding
-./plugin/invideo.plugin is NOT in UTF-8 encoding
-./plugin/wechatread.plugin is NOT in UTF-8 encoding
-./plugin/clarity.plugin is NOT in UTF-8 encoding
-./plugin/cxs.plugin is NOT in UTF-8 encoding
-./plugin/fabulous.plugin is NOT in UTF-8 encoding
-./plugin/meituxx.plugin is NOT in UTF-8 encoding
-./plugin/panda.plugin is NOT in UTF-8 encoding
-./plugin/hyxj.plugin is NOT in UTF-8 encoding
-./plugin/B-Search.plugin is NOT in UTF-8 encoding
-./plugin/vsco.plugin is NOT in UTF-8 encoding
-./plugin/ywqpy.plugin is NOT in UTF-8 encoding
-./plugin/aloha.plugin is NOT in UTF-8 encoding
-./plugin/wsgj.plugin is NOT in UTF-8 encoding
-./plugin/stsq.plugin is NOT in UTF-8 encoding
-./plugin/musixmatch.plugin is NOT in UTF-8 encoding
-./plugin/piccollage.plugin is NOT in UTF-8 encoding
-./plugin/jsgx.plugin is NOT in UTF-8 encoding
-./plugin/flomo.plugin is NOT in UTF-8 encoding
-./plugin/audiomack.plugin is NOT in UTF-8 encoding
-./plugin/cdzs.plugin is NOT in UTF-8 encoding
-./plugin/hbxw.plugin is NOT in UTF-8 encoding
-./plugin/fanqienovel.plugin is NOT in UTF-8 encoding
-./plugin/pocketlists.plugin is NOT in UTF-8 encoding
-./plugin/kepai.plugin is NOT in UTF-8 encoding
-./plugin/wnds.plugin is NOT in UTF-8 encoding
-./plugin/picsart.plugin is NOT in UTF-8 encoding
-./plugin/lightroom.plugin is NOT in UTF-8 encoding
-./plugin/Running-Mode.plugin is NOT in UTF-8 encoding
-./plugin/grow.plugin is NOT in UTF-8 encoding
-./plugin/thunder.plugin is NOT in UTF-8 encoding
-./plugin/boom.plugin is NOT in UTF-8 encoding
-./plugin/Tidal-HiFi.plugin is NOT in UTF-8 encoding
-./plugin/zymk.plugin is NOT in UTF-8 encoding
-./plugin/motivation.plugin is NOT in UTF-8 encoding
-./plugin/emote.plugin is NOT in UTF-8 encoding
-./plugin/lifeviewer.plugin is NOT in UTF-8 encoding
-./plugin/sgsz.plugin is NOT in UTF-8 encoding
-./plugin/ttd.plugin is NOT in UTF-8 encoding
-./plugin/vista.plugin is NOT in UTF-8 encoding
-./plugin/documents.plugin is NOT in UTF-8 encoding
-./plugin/kika.plugin is NOT in UTF-8 encoding
-./plugin/craft.plugin is NOT in UTF-8 encoding
-./plugin/dzqj.plugin is NOT in UTF-8 encoding
-./plugin/mbdt.plugin is NOT in UTF-8 encoding
-./plugin/iam.plugin is NOT in UTF-8 encoding
-./plugin/now.plugin is NOT in UTF-8 encoding
-./plugin/dyd.plugin is NOT in UTF-8 encoding
-./plugin/hyzm.plugin is NOT in UTF-8 encoding
-./plugin/lgzj.plugin is NOT in UTF-8 encoding
-./plugin/WPS.plugin is NOT in UTF-8 encoding
-./plugin/KuwoVip.plugin is NOT in UTF-8 encoding
-./plugin/hyxc.plugin is NOT in UTF-8 encoding
-./plugin/oldroll.plugin is NOT in UTF-8 encoding
-./plugin/BaiduCloud.plugin is NOT in UTF-8 encoding
-./plugin/klx.plugin is NOT in UTF-8 encoding
-./plugin/hzk.plugin is NOT in UTF-8 encoding
-./plugin/arpdfbj.plugin is NOT in UTF-8 encoding
-./plugin/moneythings.plugin is NOT in UTF-8 encoding
-./plugin/mojo.plugin is NOT in UTF-8 encoding
-./plugin/pandora.plugin is NOT in UTF-8 encoding
-./plugin/shadowlinkvpn.plugin is NOT in UTF-8 encoding
-./plugin/prettyup.plugin is NOT in UTF-8 encoding
-./plugin/aqc.plugin is NOT in UTF-8 encoding
-./plugin/dayone.plugin is NOT in UTF-8 encoding
-./plugin/Plugallery.plugin is NOT in UTF-8 encoding
-./plugin/pillow.plugin is NOT in UTF-8 encoding
-./plugin/startingad.plugin is NOT in UTF-8 encoding
-./plugin/gscdq.plugin is NOT in UTF-8 encoding
-./plugin/darkroom.plugin is NOT in UTF-8 encoding
-./plugin/biliad.plugin is NOT in UTF-8 encoding
-./plugin/wscsds.plugin is NOT in UTF-8 encoding
-./plugin/mdmanhua.plugin is NOT in UTF-8 encoding
-./plugin/zhsck.plugin is NOT in UTF-8 encoding
-./plugin/calm.plugin is NOT in UTF-8 encoding
-./plugin/xmlyad.plugin is NOT in UTF-8 encoding
-./plugin/lifeindex.plugin is NOT in UTF-8 encoding
-./plugin/fileball.plugin is NOT in UTF-8 encoding
-./plugin/Price.plugin is NOT in UTF-8 encoding
-./plugin/GeoLocation.plugin is NOT in UTF-8 encoding
-./plugin/yiyan.plugin is NOT in UTF-8 encoding
-./plugin/xmind.plugin is NOT in UTF-8 encoding
-./plugin/yczjz.plugin is NOT in UTF-8 encoding
-./plugin/fantastical.plugin is NOT in UTF-8 encoding
-./plugin/tenpercent.plugin is NOT in UTF-8 encoding
-./plugin/kuwo-unlock.plugin is NOT in UTF-8 encoding
-./plugin/bdwk.plugin is NOT in UTF-8 encoding
-./plugin/fnv.plugin is NOT in UTF-8 encoding
-./plugin/agenda.plugin is NOT in UTF-8 encoding
-./plugin/ppx.plugin is NOT in UTF-8 encoding
-./plugin/yjhl.plugin is NOT in UTF-8 encoding
-./plugin/Emby.plugin is NOT in UTF-8 encoding
-./plugin/peiyin.plugin is NOT in UTF-8 encoding
-./plugin/wallcraft.plugin is NOT in UTF-8 encoding
-./plugin/ly.plugin is NOT in UTF-8 encoding
-./plugin/weiboad.plugin is NOT in UTF-8 encoding
-./plugin/wfw.plugin is NOT in UTF-8 encoding
-./plugin/nybz.plugin is NOT in UTF-8 encoding
-./plugin/cubox.plugin is NOT in UTF-8 encoding
-./plugin/sorted.plugin is NOT in UTF-8 encoding
-./plugin/MediaChecker.plugin is NOT in UTF-8 encoding
-./plugin/xrk.plugin is NOT in UTF-8 encoding
-./plugin/caiyun.plugin is NOT in UTF-8 encoding
-./plugin/sjsmy.plugin is NOT in UTF-8 encoding
-./plugin/drafts.plugin is NOT in UTF-8 encoding
-./plugin/pixiv.plugin is NOT in UTF-8 encoding
-./plugin/lingokids.plugin is NOT in UTF-8 encoding
-./plugin/ft.plugin is NOT in UTF-8 encoding
-./plugin/tangerine.plugin is NOT in UTF-8 encoding
-./plugin/rzxj.plugin is NOT in UTF-8 encoding
-./plugin/egdd.plugin is NOT in UTF-8 encoding
-./plugin/rq.plugin is NOT in UTF-8 encoding
-./plugin/DisableUpdate.plugin is NOT in UTF-8 encoding
-./plugin/myplate.plugin is NOT in UTF-8 encoding
-./plugin/ztc.plugin is NOT in UTF-8 encoding
-./plugin/jibjab.plugin is NOT in UTF-8 encoding
-./plugin/zt.plugin is NOT in UTF-8 encoding
-./plugin/jssmy.plugin is NOT in UTF-8 encoding
-./plugin/dsj.plugin is NOT in UTF-8 encoding
-./plugin/zebra.plugin is NOT in UTF-8 encoding
-./plugin/qmxs.plugin is NOT in UTF-8 encoding
-./plugin/nicegram.plugin is NOT in UTF-8 encoding
-./plugin/sndd.plugin is NOT in UTF-8 encoding
-./plugin/pixelance.plugin is NOT in UTF-8 encoding
-./plugin/faintv.plugin is NOT in UTF-8 encoding
-./plugin/fomz.plugin is NOT in UTF-8 encoding
-./plugin/multisearch.plugin is NOT in UTF-8 encoding
-./plugin/AdBlock.plugin is NOT in UTF-8 encoding
-./plugin/photoshop.plugin is NOT in UTF-8 encoding
-./plugin/xzjhz.plugin is NOT in UTF-8 encoding
-./plugin/widgetsmith.plugin is NOT in UTF-8 encoding
-./plugin/1blocker.plugin is NOT in UTF-8 encoding
-./plugin/ai.plugin is NOT in UTF-8 encoding
-./plugin/collart.plugin is NOT in UTF-8 encoding
-./plugin/wdqd.plugin is NOT in UTF-8 encoding
-./plugin/vivacut.plugin is NOT in UTF-8 encoding
-./plugin/ysyk.plugin is NOT in UTF-8 encoding
-./plugin/bsxm.plugin is NOT in UTF-8 encoding
-./plugin/ilovepdf.plugin is NOT in UTF-8 encoding
-./plugin/hbgc.plugin is NOT in UTF-8 encoding
-./plugin/percento.plugin is NOT in UTF-8 encoding
-./plugin/dalanjing.plugin is NOT in UTF-8 encoding
-./plugin/usage.plugin is NOT in UTF-8 encoding
-./plugin/sc.plugin is NOT in UTF-8 encoding
-./plugin/smallpdf.plugin is NOT in UTF-8 encoding
-./plugin/absqgs.plugin is NOT in UTF-8 encoding
-./plugin/doc.plugin is NOT in UTF-8 encoding
-./plugin/iscreen.plugin is NOT in UTF-8 encoding
-./plugin/accu.plugin is NOT in UTF-8 encoding
-./plugin/ssa.plugin is NOT in UTF-8 encoding
-./plugin/ky.plugin is NOT in UTF-8 encoding
-./plugin/wnbsq.plugin is NOT in UTF-8 encoding
-./plugin/ModeSwitcher.plugin is NOT in UTF-8 encoding
-./plugin/whqsy.plugin is NOT in UTF-8 encoding
-./plugin/b612.plugin is NOT in UTF-8 encoding
-./plugin/smbq.plugin is NOT in UTF-8 encoding
-./plugin/amj.plugin is NOT in UTF-8 encoding
-./plugin/artp.plugin is NOT in UTF-8 encoding
-./plugin/kprj.plugin is NOT in UTF-8 encoding
-./plugin/xzj.plugin is NOT in UTF-8 encoding
-./plugin/molycam.plugin is NOT in UTF-8 encoding
-./plugin/smxcgj.plugin is NOT in UTF-8 encoding
-./plugin/photomath.plugin is NOT in UTF-8 encoding
-./plugin/nfc.plugin is NOT in UTF-8 encoding
-./plugin/mksp.plugin is NOT in UTF-8 encoding
-./plugin/SpotifyPremium.plugin is NOT in UTF-8 encoding
-./plugin/htjzb.plugin is NOT in UTF-8 encoding
-./plugin/mht.plugin is NOT in UTF-8 encoding
-./plugin/pdfviewer.plugin is NOT in UTF-8 encoding
-./plugin/todo.plugin is NOT in UTF-8 encoding
-./plugin/ceo.plugin is NOT in UTF-8 encoding
-./plugin/relens.plugin is NOT in UTF-8 encoding
-./plugin/gzrj.plugin is NOT in UTF-8 encoding
-./plugin/aliyun.plugin is NOT in UTF-8 encoding
-./plugin/wxts.plugin is NOT in UTF-8 encoding
+0512231051 ...
+./rewrite/widgetsmith.conf is in UTF-8 encoding
+./rewrite/colorweather.conf is in UTF-8 encoding
+./rewrite/seven.conf is in UTF-8 encoding
+./rewrite/duitang.conf is in UTF-8 encoding
+./rewrite/vivacut.conf is in UTF-8 encoding
+./rewrite/todo.conf is in UTF-8 encoding
+./rewrite/qnhb.conf is in UTF-8 encoding
+./rewrite/panda.conf is in UTF-8 encoding
+./rewrite/usage.conf is in UTF-8 encoding
+./rewrite/egdd.conf is in UTF-8 encoding
+./rewrite/zymk.conf is in UTF-8 encoding
+./rewrite/meistertask.conf is in UTF-8 encoding
+./rewrite/colorwidgets.conf is in UTF-8 encoding
+./rewrite/yczjz.conf is in UTF-8 encoding
+./rewrite/NoMoCam.conf is in UTF-8 encoding
+./rewrite/emote.conf is in UTF-8 encoding
+./rewrite/mdmanhua.conf is in UTF-8 encoding
+./rewrite/fnv.conf is in UTF-8 encoding
+./rewrite/whqsy.conf is in UTF-8 encoding
+./rewrite/appraven.conf is in UTF-8 encoding
+./rewrite/sgsz.conf is in UTF-8 encoding
+./rewrite/htjzb.conf is in UTF-8 encoding
+./rewrite/smbq.conf is in UTF-8 encoding
+./rewrite/rzxj.conf is in UTF-8 encoding
+./rewrite/mondly.conf is in UTF-8 encoding
+./rewrite/qifu.conf is in UTF-8 encoding
+./rewrite/rrsp.conf is in UTF-8 encoding
+./rewrite/doc.conf is in UTF-8 encoding
+./rewrite/zebra.conf is in UTF-8 encoding
+./rewrite/baimiao.conf is in UTF-8 encoding
+./rewrite/invideo.conf is in UTF-8 encoding
+./rewrite/craft.conf is in UTF-8 encoding
+./rewrite/peiyin.conf is in UTF-8 encoding
+./rewrite/gscdq.conf is in UTF-8 encoding
+./rewrite/jianxun.conf is in UTF-8 encoding
+./rewrite/pixelcut.conf is in UTF-8 encoding
+./rewrite/ptj.conf is in UTF-8 encoding
+./rewrite/WPS.conf is in UTF-8 encoding
+./rewrite/weiboad.conf is in UTF-8 encoding
+./rewrite/vcus.conf is in UTF-8 encoding
+./rewrite/jkyd.conf is in UTF-8 encoding
+./rewrite/vista.conf is in UTF-8 encoding
+./rewrite/hyxc.conf is in UTF-8 encoding
+./rewrite/judou.conf is in UTF-8 encoding
+./rewrite/amj.conf is in UTF-8 encoding
+./rewrite/fomz.conf is in UTF-8 encoding
+./rewrite/wfw.conf is in UTF-8 encoding
+./rewrite/mtywj.conf is in UTF-8 encoding
+./rewrite/smwd.conf is in UTF-8 encoding
+./rewrite/imuseum.conf is in UTF-8 encoding
+./rewrite/sjsmy.conf is in UTF-8 encoding
+./rewrite/fimo.conf is in UTF-8 encoding
+./rewrite/bazaart.conf is in UTF-8 encoding
+./rewrite/nfc.conf is in UTF-8 encoding
+./rewrite/audiomack.conf is in UTF-8 encoding
+./rewrite/jsgx.conf is in UTF-8 encoding
+./rewrite/tenpercent.conf is in UTF-8 encoding
+./rewrite/sorted.conf is in UTF-8 encoding
+./rewrite/ilovepdf.conf is in UTF-8 encoding
+./rewrite/wscsds.conf is in UTF-8 encoding
+./rewrite/ydcd.conf is in UTF-8 encoding
+./rewrite/peak.conf is in UTF-8 encoding
+./rewrite/gql.conf is in UTF-8 encoding
+./rewrite/wxds.conf is in UTF-8 encoding
+./rewrite/wechatread.conf is in UTF-8 encoding
+./rewrite/ttd.conf is in UTF-8 encoding
+./rewrite/accu.conf is in UTF-8 encoding
+./rewrite/peiyinxiu.conf is in UTF-8 encoding
+./rewrite/absqgs.conf is in UTF-8 encoding
+./rewrite/notboring.conf is in UTF-8 encoding
+./rewrite/clarity.conf is in UTF-8 encoding
+./rewrite/artp.conf is in UTF-8 encoding
+./rewrite/xrk.conf is in UTF-8 encoding
+./rewrite/4in1.conf is in UTF-8 encoding
+./rewrite/gddt.conf is in UTF-8 encoding
+./rewrite/ly.conf is in UTF-8 encoding
+./rewrite/mksp.conf is in UTF-8 encoding
+./rewrite/iam.conf is in UTF-8 encoding
+./rewrite/memrise.conf is in UTF-8 encoding
+./rewrite/wxts.conf is in UTF-8 encoding
+./rewrite/xmind.conf is in UTF-8 encoding
+./rewrite/arpdfbj.conf is in UTF-8 encoding
+./rewrite/pocketlists.conf is in UTF-8 encoding
+./rewrite/oldroll.conf is in UTF-8 encoding
+./rewrite/pdfviewer.conf is in UTF-8 encoding
+./rewrite/kika.conf is in UTF-8 encoding
+./rewrite/zjsg.conf is in UTF-8 encoding
+./rewrite/lsdyw.conf is in UTF-8 encoding
+./rewrite/aliyun.conf is in UTF-8 encoding
+./rewrite/collart.conf is in UTF-8 encoding
+./rewrite/kepai.conf is in UTF-8 encoding
+./rewrite/xxyq.conf is in UTF-8 encoding
+./rewrite/yunting.conf is in UTF-8 encoding
+./rewrite/dsbj.conf is in UTF-8 encoding
+./rewrite/myplate.conf is in UTF-8 encoding
+./rewrite/mklwt.conf is in UTF-8 encoding
+./rewrite/ydybj.conf is in UTF-8 encoding
+./rewrite/ppx.conf is in UTF-8 encoding
+./rewrite/CamScanner.conf is in UTF-8 encoding
+./rewrite/ddsyxj.conf is in UTF-8 encoding
+./rewrite/keep.conf is in UTF-8 encoding
+./rewrite/NodeLinkCheck.conf is in UTF-8 encoding
+./rewrite/polarr.conf is in UTF-8 encoding
+./rewrite/xzj.conf is in UTF-8 encoding
+./rewrite/vsco.conf is in UTF-8 encoding
+./rewrite/jssmy.conf is in UTF-8 encoding
+./rewrite/mojo.conf is in UTF-8 encoding
+./rewrite/motivation.conf is in UTF-8 encoding
+./rewrite/retake.conf is in UTF-8 encoding
+./rewrite/xcz.conf is in UTF-8 encoding
+./rewrite/yitian.conf is in UTF-8 encoding
+./rewrite/proknockout.conf is in UTF-8 encoding
+./rewrite/chic.conf is in UTF-8 encoding
+./rewrite/aptv.conf is in UTF-8 encoding
+./rewrite/lightroom.conf is in UTF-8 encoding
+./rewrite/yiyan.conf is in UTF-8 encoding
+./rewrite/efekt.conf is in UTF-8 encoding
+./rewrite/cp.conf is in UTF-8 encoding
+./rewrite/hbetgs.conf is in UTF-8 encoding
+./rewrite/ztc.conf is in UTF-8 encoding
+./rewrite/wnbsq.conf is in UTF-8 encoding
+./rewrite/KuwoVip.conf is in UTF-8 encoding
+./rewrite/prettyup.conf is in UTF-8 encoding
+./rewrite/pillow.conf is in UTF-8 encoding
+./rewrite/darkroom.conf is in UTF-8 encoding
+./rewrite/lifeviewer.conf is in UTF-8 encoding
+./rewrite/wdfq.conf is in UTF-8 encoding
+./rewrite/now.conf is in UTF-8 encoding
+./rewrite/symbolab.conf is in UTF-8 encoding
+./rewrite/hsfs.conf is in UTF-8 encoding
+./rewrite/tpp.conf is in UTF-8 encoding
+./rewrite/smallpdf.conf is in UTF-8 encoding
+./rewrite/ypjj.conf is in UTF-8 encoding
+./rewrite/https.conf is in UTF-8 encoding
+./rewrite/pandora.conf is in UTF-8 encoding
+./rewrite/iRingo_TestFlight.conf is in UTF-8 encoding
+./rewrite/stsq.conf is in UTF-8 encoding
+./rewrite/moneythings.conf is in UTF-8 encoding
+./rewrite/ysyk.conf is in UTF-8 encoding
+./rewrite/bdwk.conf is in UTF-8 encoding
+./rewrite/bfs.conf is in UTF-8 encoding
+./rewrite/mdsz.conf is in UTF-8 encoding
+./rewrite/sndd.conf is in UTF-8 encoding
+./rewrite/ego.conf is in UTF-8 encoding
+./rewrite/ymjz.conf is in UTF-8 encoding
+./rewrite/fyjh.conf is in UTF-8 encoding
+./rewrite/documents.conf is in UTF-8 encoding
+./rewrite/nicegram.conf is in UTF-8 encoding
+./rewrite/kuwo-unlock.conf is in UTF-8 encoding
+./rewrite/grow.conf is in UTF-8 encoding
+./rewrite/calm.conf is in UTF-8 encoding
+./rewrite/nybz.conf is in UTF-8 encoding
+./rewrite/bdsp.conf is in UTF-8 encoding
+./rewrite/Emby.conf is in UTF-8 encoding
+./rewrite/cubox.conf is in UTF-8 encoding
+./rewrite/startingad.conf is in UTF-8 encoding
+./rewrite/dalanjing.conf is in UTF-8 encoding
+./rewrite/photomath.conf is in UTF-8 encoding
+./rewrite/alarmy.conf is in UTF-8 encoding
+./rewrite/meituxx.conf is in UTF-8 encoding
+./rewrite/Tidal-HiFi.conf is in UTF-8 encoding
+./rewrite/pixelance.conf is in UTF-8 encoding
+./rewrite/DisableUpdate.conf is in UTF-8 encoding
+./rewrite/youtube.conf is in UTF-8 encoding
+./rewrite/lgzj.conf is in UTF-8 encoding
+./rewrite/ft.conf is in UTF-8 encoding
+./rewrite/ky.conf is in UTF-8 encoding
+./rewrite/percento.conf is in UTF-8 encoding
+./rewrite/hzk.conf is in UTF-8 encoding
+./rewrite/iconkiller.conf is in UTF-8 encoding
+./rewrite/gzrj.conf is in UTF-8 encoding
+./rewrite/myfitnesspal.conf is in UTF-8 encoding
+./rewrite/zt.conf is in UTF-8 encoding
+./rewrite/lingokids.conf is in UTF-8 encoding
+./rewrite/bsxm.conf is in UTF-8 encoding
+./rewrite/cdzs.conf is in UTF-8 encoding
+./rewrite/tangerine.conf is in UTF-8 encoding
+./rewrite/wdqd.conf is in UTF-8 encoding
+./rewrite/dayone.conf is in UTF-8 encoding
+./rewrite/aloha.conf is in UTF-8 encoding
+./rewrite/dsj.conf is in UTF-8 encoding
+./rewrite/wechatad.conf is in UTF-8 encoding
+./rewrite/varlens.conf is in UTF-8 encoding
+./rewrite/zhsck.conf is in UTF-8 encoding
+./rewrite/1blocker.conf is in UTF-8 encoding
+./rewrite/mbdt.conf is in UTF-8 encoding
+./rewrite/qmxs.conf is in UTF-8 encoding
+./rewrite/fabulous.conf is in UTF-8 encoding
+./rewrite/grammarly.conf is in UTF-8 encoding
+./rewrite/emmo.conf is in UTF-8 encoding
+./rewrite/xiaoying.conf is in UTF-8 encoding
+./rewrite/tokcam.conf is in UTF-8 encoding
+./rewrite/xzjhz.conf is in UTF-8 encoding
+./rewrite/meipian.conf is in UTF-8 encoding
+./rewrite/giftr.conf is in UTF-8 encoding
+./rewrite/ssa.conf is in UTF-8 encoding
+./rewrite/B-Search.conf is in UTF-8 encoding
+./rewrite/boom.conf is in UTF-8 encoding
+./rewrite/wallcraft.conf is in UTF-8 encoding
+./rewrite/kprj.conf is in UTF-8 encoding
+./rewrite/photoshop.conf is in UTF-8 encoding
+./rewrite/jibjab.conf is in UTF-8 encoding
+./rewrite/hyzm.conf is in UTF-8 encoding
+./rewrite/hyxj.conf is in UTF-8 encoding
+./rewrite/Ratings.conf is in UTF-8 encoding
+./rewrite/xmlyad.conf is in UTF-8 encoding
+./rewrite/watchout.conf is in UTF-8 encoding
+./rewrite/Bodian.conf is in UTF-8 encoding
+./rewrite/dyd.conf is in UTF-8 encoding
+./rewrite/smxcgj.conf is in UTF-8 encoding
+./rewrite/wnds.conf is in UTF-8 encoding
+./rewrite/calculator.conf is in UTF-8 encoding
+./rewrite/caixin.conf is in UTF-8 encoding
+./rewrite/yjhl.conf is in UTF-8 encoding
+./rewrite/drafts.conf is in UTF-8 encoding
+./rewrite/mht.conf is in UTF-8 encoding
+./rewrite/arbc.conf is in UTF-8 encoding
+./rewrite/fanqienovel.conf is in UTF-8 encoding
+./rewrite/SpotifyPremium.conf is in UTF-8 encoding
+./rewrite/BedtimeFan.conf is in UTF-8 encoding
+./rewrite/caiyun.conf is in UTF-8 encoding
+./rewrite/rq.conf is in UTF-8 encoding
+./rewrite/shadowlinkvpn.conf is in UTF-8 encoding
+./rewrite/cxs.conf is in UTF-8 encoding
+./rewrite/fileball.conf is in UTF-8 encoding
+./rewrite/lls.conf is in UTF-8 encoding
+./rewrite/qj.conf is in UTF-8 encoding
+./rewrite/styleart.conf is in UTF-8 encoding
+./rewrite/picsart.conf is in UTF-8 encoding
+./rewrite/ljtq.conf is in UTF-8 encoding
+./rewrite/soundcloud.conf is in UTF-8 encoding
+./rewrite/sc.conf is in UTF-8 encoding
+./rewrite/mix.conf is in UTF-8 encoding
+./rewrite/7dong.conf is in UTF-8 encoding
+./rewrite/daily-yoga.conf is in UTF-8 encoding
+./rewrite/hbgc.conf is in UTF-8 encoding
+./rewrite/fantastical.conf is in UTF-8 encoding
+./rewrite/Price.conf is in UTF-8 encoding
+./rewrite/jjyc.conf is in UTF-8 encoding
+./rewrite/thunder.conf is in UTF-8 encoding
+./rewrite/faintv.conf is in UTF-8 encoding
+./rewrite/endel.conf is in UTF-8 encoding
+./rewrite/ywqpy.conf is in UTF-8 encoding
+./rewrite/bili.conf is in UTF-8 encoding
+./rewrite/musixmatch.conf is in UTF-8 encoding
+./rewrite/flomo.conf is in UTF-8 encoding
+./rewrite/agenda.conf is in UTF-8 encoding
+./rewrite/xjsp.conf is in UTF-8 encoding
+./rewrite/biliad.conf is in UTF-8 encoding
+./rewrite/wsgj.conf is in UTF-8 encoding
+./rewrite/ellabook.conf is in UTF-8 encoding
+./rewrite/xxg.conf is in UTF-8 encoding
+./rewrite/klx.conf is in UTF-8 encoding
+./rewrite/tutu.conf is in UTF-8 encoding
+./rewrite/iscreen.conf is in UTF-8 encoding
+./rewrite/BaiduCloud.conf is in UTF-8 encoding
+./rewrite/dzqj.conf is in UTF-8 encoding
+./rewrite/rmrb.conf is in UTF-8 encoding
+./rewrite/piccollage.conf is in UTF-8 encoding
+./rewrite/hyperweb.conf is in UTF-8 encoding
+./rewrite/ai.conf is in UTF-8 encoding
+./rewrite/molycam.conf is in UTF-8 encoding
+./rewrite/adguard.conf is in UTF-8 encoding
+./rewrite/zjbj.conf is in UTF-8 encoding
+./rewrite/relens.conf is in UTF-8 encoding
+./rewrite/planny.conf is in UTF-8 encoding
+./rewrite/pixiv.conf is in UTF-8 encoding
+./rewrite/b612.conf is in UTF-8 encoding
+./rewrite/AdBlock.conf is in UTF-8 encoding
+./rewrite/nt.conf is in UTF-8 encoding
+./rewrite/notability.conf is in UTF-8 encoding
+./rewrite/apowersoft.conf is in UTF-8 encoding
+./rewrite/ceo.conf is in UTF-8 encoding
+./rewrite/hx.conf is in UTF-8 encoding
+./rewrite/xyts.conf is in UTF-8 encoding
+./rewrite/zhitiao.conf is in UTF-8 encoding
+./rewrite/aqc.conf is in UTF-8 encoding
+./rewrite/hbxw.conf is in UTF-8 encoding
+./rewrite/multisearch.conf is in UTF-8 encoding
+./config/shadowrocket_basic.conf is in UTF-8 encoding
+./module/gzrj.module is in UTF-8 encoding
+./module/cdzs.module is in UTF-8 encoding
+./module/hx.module is in UTF-8 encoding
+./module/wallcraft.module is in UTF-8 encoding
+./module/peiyinxiu.module is in UTF-8 encoding
+./module/symbolab.module is in UTF-8 encoding
+./module/ydcd.module is in UTF-8 encoding
+./module/4in1.module is in UTF-8 encoding
+./module/ai.module is in UTF-8 encoding
+./module/ptj.module is in UTF-8 encoding
+./module/hbgc.module is in UTF-8 encoding
+./module/notability.module is in UTF-8 encoding
+./module/musixmatch.module is in UTF-8 encoding
+./module/ky.module is in UTF-8 encoding
+./module/fyjh.module is in UTF-8 encoding
+./module/cxs.module is in UTF-8 encoding
+./module/keep.module is in UTF-8 encoding
+./module/tokcam.module is in UTF-8 encoding
+./module/widgetsmith.module is in UTF-8 encoding
+./module/wfw.module is in UTF-8 encoding
+./module/judou.module is in UTF-8 encoding
+./module/pixelcut.module is in UTF-8 encoding
+./module/smallpdf.module is in UTF-8 encoding
+./module/drafts.module is in UTF-8 encoding
+./module/agenda.module is in UTF-8 encoding
+./module/relens.module is in UTF-8 encoding
+./module/xzjhz.module is in UTF-8 encoding
+./module/ydybj.module is in UTF-8 encoding
+./module/xzj.module is in UTF-8 encoding
+./module/polarr.module is in UTF-8 encoding
+./module/ego.module is in UTF-8 encoding
+./module/stsq.module is in UTF-8 encoding
+./module/colorwidgets.module is in UTF-8 encoding
+./module/xiaoying.module is in UTF-8 encoding
+./module/adguard.module is in UTF-8 encoding
+./module/mondly.module is in UTF-8 encoding
+./module/ZhihuOpt.sgmodule is in UTF-8 encoding
+./module/qifu.module is in UTF-8 encoding
+./module/xmlyad.module is in UTF-8 encoding
+./module/htjzb.module is in UTF-8 encoding
+./module/WeiboBlock.sgmodule is in UTF-8 encoding
+./module/zt.module is in UTF-8 encoding
+./module/prettyup.module is in UTF-8 encoding
+./module/motivation.module is in UTF-8 encoding
+./module/rmrb.module is in UTF-8 encoding
+./module/emby.sgmodule is in UTF-8 encoding
+./module/cubox.sgmodule is in UTF-8 encoding
+./module/nybz.module is in UTF-8 encoding
+./module/fileball.module is in UTF-8 encoding
+./module/lingokids.module is in UTF-8 encoding
+./module/hzk.module is in UTF-8 encoding
+./module/7dong.module is in UTF-8 encoding
+./module/sc.module is in UTF-8 encoding
+./module/qmxs.module is in UTF-8 encoding
+./module/pillow.module is in UTF-8 encoding
+./module/startingad.module is in UTF-8 encoding
+./module/amj.module is in UTF-8 encoding
+./module/ypjj.module is in UTF-8 encoding
+./module/shadowlinkVPN.module is in UTF-8 encoding
+./module/1blocker.module is in UTF-8 encoding
+./module/kepai.module is in UTF-8 encoding
+./module/iscreen.module is in UTF-8 encoding
+./module/egdd.module is in UTF-8 encoding
+./module/rrsp.module is in UTF-8 encoding
+./module/lgzj.module is in UTF-8 encoding
+./module/jjyc.module is in UTF-8 encoding
+./module/ellabook.module is in UTF-8 encoding
+./module/arpdfbj.module is in UTF-8 encoding
+./module/spotifyVIP.module is in UTF-8 encoding
+./module/craft.module is in UTF-8 encoding
+./module/myplate.module is in UTF-8 encoding
+./module/ilovepdf.module is in UTF-8 encoding
+./module/bsxm.module is in UTF-8 encoding
+./module/smbq.module is in UTF-8 encoding
+./module/pocketlists.module is in UTF-8 encoding
+./module/mtywj.module is in UTF-8 encoding
+./module/accu.module is in UTF-8 encoding
+./module/aosoft.module is in UTF-8 encoding
+./module/YouTubeAd.sgmodule is in UTF-8 encoding
+./module/camscanner.sgmodule is in UTF-8 encoding
+./module/emmo.module is in UTF-8 encoding
+./module/proknockout.module is in UTF-8 encoding
+./module/wnds.module is in UTF-8 encoding
+./module/alarmy.module is in UTF-8 encoding
+./module/vivacut.module is in UTF-8 encoding
+./module/kprj.module is in UTF-8 encoding
+./module/mix-camera.module is in UTF-8 encoding
+./module/weiboad.module is in UTF-8 encoding
+./module/pdfviewer.module is in UTF-8 encoding
+./module/appraven.module is in UTF-8 encoding
+./module/flomo.module is in UTF-8 encoding
+./module/wdfq.module is in UTF-8 encoding
+./module/picsart.module is in UTF-8 encoding
+./module/percento.module is in UTF-8 encoding
+./module/smwd.module is in UTF-8 encoding
+./module/weibolitead.module is in UTF-8 encoding
+./module/dsbj.module is in UTF-8 encoding
+./module/aptv.module is in UTF-8 encoding
+./module/wscsds.module is in UTF-8 encoding
+./module/sgsz.module is in UTF-8 encoding
+./module/pandora.module is in UTF-8 encoding
+./module/substore.sgmodule is in UTF-8 encoding
+./module/ly.module is in UTF-8 encoding
+./module/smxcgj.module is in UTF-8 encoding
+./module/ljtq.module is in UTF-8 encoding
+./module/gddt.module is in UTF-8 encoding
+./module/styleart.module is in UTF-8 encoding
+./module/imuseum.module is in UTF-8 encoding
+./module/ymjz.module is in UTF-8 encoding
+./module/jkyd.module is in UTF-8 encoding
+./module/clarity.module is in UTF-8 encoding
+./module/caixin.module is in UTF-8 encoding
+./module/fabulous.module is in UTF-8 encoding
+./module/jsgx.module is in UTF-8 encoding
+./module/yunting.module is in UTF-8 encoding
+./module/emote.module is in UTF-8 encoding
+./module/oil.module is in UTF-8 encoding
+./module/vcus.module is in UTF-8 encoding
+./module/panda.module is in UTF-8 encoding
+./module/cp.module is in UTF-8 encoding
+./module/lls.module is in UTF-8 encoding
+./module/seven.module is in UTF-8 encoding
+./module/qj.module is in UTF-8 encoding
+./module/xyts.module is in UTF-8 encoding
+./module/bdsp.module is in UTF-8 encoding
+./module/dzqj.module is in UTF-8 encoding
+./module/caiyun_cron.module is in UTF-8 encoding
+./module/zymk.module is in UTF-8 encoding
+./module/bili.module is in UTF-8 encoding
+./module/zjsg.module is in UTF-8 encoding
+./module/vsco.module is in UTF-8 encoding
+./module/fantastical.module is in UTF-8 encoding
+./module/meistertask.module is in UTF-8 encoding
+./module/collart.module is in UTF-8 encoding
+./module/invideo.module is in UTF-8 encoding
+./module/ywqpy.module is in UTF-8 encoding
+./module/tenpercent.module is in UTF-8 encoding
+./module/jianxun.module is in UTF-8 encoding
+./module/hyperweb.module is in UTF-8 encoding
+./module/bfs.module is in UTF-8 encoding
+./module/tpp.module is in UTF-8 encoding
+./module/mksp.module is in UTF-8 encoding
+./module/sndd.module is in UTF-8 encoding
+./module/https.module is in UTF-8 encoding
+./module/kuwo-unlock.sgmodule is in UTF-8 encoding
+./module/kuwovip.sgmodule is in UTF-8 encoding
+./module/spotify_lyric.module is in UTF-8 encoding
+./module/nfc.module is in UTF-8 encoding
+./module/tutu.module is in UTF-8 encoding
+./module/zhitiao.module is in UTF-8 encoding
+./module/wechatread.module is in UTF-8 encoding
+./module/vista.module is in UTF-8 encoding
+./module/hyxc.module is in UTF-8 encoding
+./module/hyxj.module is in UTF-8 encoding
+./module/yifeigif.module is in UTF-8 encoding
+./module/documents.module is in UTF-8 encoding
+./module/fanqie.module is in UTF-8 encoding
+./module/ssa.module is in UTF-8 encoding
+./module/aliyun.module is in UTF-8 encoding
+./module/fimo.module is in UTF-8 encoding
+./module/wdqd.module is in UTF-8 encoding
+./module/jssmy.module is in UTF-8 encoding
+./module/tianqi.module is in UTF-8 encoding
+./module/soundcloud.module is in UTF-8 encoding
+./module/rzxj.module is in UTF-8 encoding
+./module/nomocam.module is in UTF-8 encoding
+./module/yjhl.module is in UTF-8 encoding
+./module/tangerine.module is in UTF-8 encoding
+./module/arbc.module is in UTF-8 encoding
+./module/wsgj.module is in UTF-8 encoding
+./module/sorted.module is in UTF-8 encoding
+./module/hbetgs.module is in UTF-8 encoding
+./module/mdmanhua.module is in UTF-8 encoding
+./module/hbxw.module is in UTF-8 encoding
+./module/absqgs.module is in UTF-8 encoding
+./module/mht.module is in UTF-8 encoding
+./module/artp.module is in UTF-8 encoding
+./module/dalanjing.module is in UTF-8 encoding
+./module/Qsearch.sgmodule is in UTF-8 encoding
+./module/xcz.module is in UTF-8 encoding
+./module/oldroll.module is in UTF-8 encoding
+./module/AdBlock.module is in UTF-8 encoding
+./module/qnhb.module is in UTF-8 encoding
+./module/hyzm.module is in UTF-8 encoding
+./module/ppx.module is in UTF-8 encoding
+./module/boom.module is in UTF-8 encoding
+./module/ceo.module is in UTF-8 encoding
+./module/fnv.module is in UTF-8 encoding
+./module/fomz.module is in UTF-8 encoding
+./module/peak.module is in UTF-8 encoding
+./module/usage.module is in UTF-8 encoding
+./module/ztc.module is in UTF-8 encoding
+./module/netflix_rating.sgmodule is in UTF-8 encoding
+./module/lifeindex.module is in UTF-8 encoding
+./module/boxjs.sgmodule is in UTF-8 encoding
+./module/todo.module is in UTF-8 encoding
+./module/moneythings.module is in UTF-8 encoding
+./module/mojo.module is in UTF-8 encoding
+./module/nicegram.module is in UTF-8 encoding
+./module/rq.module is in UTF-8 encoding
+./module/wps.sgmodule is in UTF-8 encoding
+./module/youtubead.module is in UTF-8 encoding
+./module/xrk.module is in UTF-8 encoding
+./module/molycam.module is in UTF-8 encoding
+./module/audiomack.module is in UTF-8 encoding
+./module/sjsmy.module is in UTF-8 encoding
+./module/ZhihuBlock.sgmodule is in UTF-8 encoding
+./module/grow.module is in UTF-8 encoding
+./module/gscdq.module is in UTF-8 encoding
+./module/mklwt.module is in UTF-8 encoding
+./module/duitang.module is in UTF-8 encoding
+./module/bazaart.module is in UTF-8 encoding
+./module/biliad.module is in UTF-8 encoding
+./module/zjbj.module is in UTF-8 encoding
+./module/colorweather.module is in UTF-8 encoding
+./module/lsdyw.module is in UTF-8 encoding
+./module/jibjab.module is in UTF-8 encoding
+./module/yczjz.module is in UTF-8 encoding
+./module/photomath.module is in UTF-8 encoding
+./module/lightroom.module is in UTF-8 encoding
+./module/dailyyoga.module is in UTF-8 encoding
+./module/whqsy.module is in UTF-8 encoding
+./module/xxyq.module is in UTF-8 encoding
+./module/yitian.module is in UTF-8 encoding
+./module/TidalPlus.sgmodule is in UTF-8 encoding
+./module/memrise.module is in UTF-8 encoding
+./module/nt.module is in UTF-8 encoding
+./module/bili-region.module is in UTF-8 encoding
+./module/ddsyxj.module is in UTF-8 encoding
+./module/varlens.module is in UTF-8 encoding
+./module/caiyun.module is in UTF-8 encoding
+./module/ft.module is in UTF-8 encoding
+./module/dsj.module is in UTF-8 encoding
+./module/calculator.module is in UTF-8 encoding
+./module/piccollage.module is in UTF-8 encoding
+./module/retake.module is in UTF-8 encoding
+./module/yiyan.module is in UTF-8 encoding
+./module/wxts.module is in UTF-8 encoding
+./module/WPS.module is in UTF-8 encoding
+./module/b612.module is in UTF-8 encoding
+./module/gql.module is in UTF-8 encoding
+./module/meituxx.module is in UTF-8 encoding
+./module/zebra.module is in UTF-8 encoding
+./module/bedtime-fan.module is in UTF-8 encoding
+./module/darkroom.module is in UTF-8 encoding
+./module/chic.module is in UTF-8 encoding
+./module/klx.module is in UTF-8 encoding
+./module/now.module is in UTF-8 encoding
+./module/dayone.module is in UTF-8 encoding
+./module/kika.module is in UTF-8 encoding
+./module/multisearch.module is in UTF-8 encoding
+./module/efekt.module is in UTF-8 encoding
+./module/aqc.module is in UTF-8 encoding
+./module/zhsck.module is in UTF-8 encoding
+./module/endel.module is in UTF-8 encoding
+./module/xxg.module is in UTF-8 encoding
+./module/calm.module is in UTF-8 encoding
+./module/wxds.module is in UTF-8 encoding
+./module/dyd.module is in UTF-8 encoding
+./module/planny.module is in UTF-8 encoding
+./module/grammarly.module is in UTF-8 encoding
+./module/baiducloud.sgmodule is in UTF-8 encoding
+./module/pixelance.module is in UTF-8 encoding
+./module/mdsz.module is in UTF-8 encoding
+./module/bdwk.module is in UTF-8 encoding
+./module/thunder.module is in UTF-8 encoding
+./module/xmind.module is in UTF-8 encoding
+./module/notboring.module is in UTF-8 encoding
+./module/wechatad.module is in UTF-8 encoding
+./module/Bodian.module is in UTF-8 encoding
+./module/myfitnesspal.module is in UTF-8 encoding
+./module/douban.sgmodule is in UTF-8 encoding
+./module/baimiao.module is in UTF-8 encoding
+./module/photoshop.module is in UTF-8 encoding
+./module/doc.module is in UTF-8 encoding
+./module/hsfs.module is in UTF-8 encoding
+./module/ysyk.module is in UTF-8 encoding
+./module/watchout.module is in UTF-8 encoding
+./module/aloha.module is in UTF-8 encoding
+./module/wnbsq.module is in UTF-8 encoding
+./module/iconkiller.module is in UTF-8 encoding
+./module/ttd.module is in UTF-8 encoding
+./module/mbdt.module is in UTF-8 encoding
+./module/HistoryPrice.sgmodule is in UTF-8 encoding
+./module/peiyin.module is in UTF-8 encoding
+./module/faintv.module is in UTF-8 encoding
+./module/lifeviewer.module is in UTF-8 encoding
+./module/meipian.module is in UTF-8 encoding
+./module/xjsp.module is in UTF-8 encoding
+./plugin/planny.plugin is in UTF-8 encoding
+./plugin/daily-yoga.plugin is in UTF-8 encoding
+./plugin/hsfs.plugin is in UTF-8 encoding
+./plugin/efekt.plugin is in UTF-8 encoding
+./plugin/mdsz.plugin is in UTF-8 encoding
+./plugin/gddt.plugin is in UTF-8 encoding
+./plugin/bazaart.plugin is in UTF-8 encoding
+./plugin/calculator.plugin is in UTF-8 encoding
+./plugin/emmo.plugin is in UTF-8 encoding
+./plugin/yunting.plugin is in UTF-8 encoding
+./plugin/iconkiller.plugin is in UTF-8 encoding
+./plugin/duitang.plugin is in UTF-8 encoding
+./plugin/fyjh.plugin is in UTF-8 encoding
+./plugin/symbolab.plugin is in UTF-8 encoding
+./plugin/yitian.plugin is in UTF-8 encoding
+./plugin/baimiao.plugin is in UTF-8 encoding
+./plugin/judou.plugin is in UTF-8 encoding
+./plugin/notboring.plugin is in UTF-8 encoding
+./plugin/ellabook.plugin is in UTF-8 encoding
+./plugin/mklwt.plugin is in UTF-8 encoding
+./plugin/notability.plugin is in UTF-8 encoding
+./plugin/xiaoying.plugin is in UTF-8 encoding
+./plugin/styleart.plugin is in UTF-8 encoding
+./plugin/cp.plugin is in UTF-8 encoding
+./plugin/alarmy.plugin is in UTF-8 encoding
+./plugin/ydybj.plugin is in UTF-8 encoding
+./plugin/dsbj.plugin is in UTF-8 encoding
+./plugin/bfs.plugin is in UTF-8 encoding
+./plugin/4in1.plugin is in UTF-8 encoding
+./plugin/gql.plugin is in UTF-8 encoding
+./plugin/chic.plugin is in UTF-8 encoding
+./plugin/xyts.plugin is in UTF-8 encoding
+./plugin/qj.plugin is in UTF-8 encoding
+./plugin/xxg.plugin is in UTF-8 encoding
+./plugin/xxyq.plugin is in UTF-8 encoding
+./plugin/tutu.plugin is in UTF-8 encoding
+./plugin/iRingo_TestFlight.plugin is in UTF-8 encoding
+./plugin/mix.plugin is in UTF-8 encoding
+./plugin/NoMoCam.plugin is in UTF-8 encoding
+./plugin/pixelcut.plugin is in UTF-8 encoding
+./plugin/jjyc.plugin is in UTF-8 encoding
+./plugin/hx.plugin is in UTF-8 encoding
+./plugin/soundcloud.plugin is in UTF-8 encoding
+./plugin/qnhb.plugin is in UTF-8 encoding
+./plugin/colorweather.plugin is in UTF-8 encoding
+./plugin/arbc.plugin is in UTF-8 encoding
+./plugin/ypjj.plugin is in UTF-8 encoding
+./plugin/wdfq.plugin is in UTF-8 encoding
+./plugin/Ratings.plugin is in UTF-8 encoding
+./plugin/giftr.plugin is in UTF-8 encoding
+./plugin/watchout.plugin is in UTF-8 encoding
+./plugin/lls.plugin is in UTF-8 encoding
+./plugin/jkyd.plugin is in UTF-8 encoding
+./plugin/ljtq.plugin is in UTF-8 encoding
+./plugin/wxds.plugin is in UTF-8 encoding
+./plugin/wechatad.plugin is in UTF-8 encoding
+./plugin/https.plugin is in UTF-8 encoding
+./plugin/xcz.plugin is in UTF-8 encoding
+./plugin/mondly.plugin is in UTF-8 encoding
+./plugin/keep.plugin is in UTF-8 encoding
+./plugin/bdsp.plugin is in UTF-8 encoding
+./plugin/rmrb.plugin is in UTF-8 encoding
+./plugin/rrsp.plugin is in UTF-8 encoding
+./plugin/jianxun.plugin is in UTF-8 encoding
+./plugin/apowersoft.plugin is in UTF-8 encoding
+./plugin/endel.plugin is in UTF-8 encoding
+./plugin/meipian.plugin is in UTF-8 encoding
+./plugin/imuseum.plugin is in UTF-8 encoding
+./plugin/adguard.plugin is in UTF-8 encoding
+./plugin/ymjz.plugin is in UTF-8 encoding
+./plugin/seven.plugin is in UTF-8 encoding
+./plugin/myfitnesspal.plugin is in UTF-8 encoding
+./plugin/CamScanner.plugin is in UTF-8 encoding
+./plugin/meistertask.plugin is in UTF-8 encoding
+./plugin/peak.plugin is in UTF-8 encoding
+./plugin/proknockout.plugin is in UTF-8 encoding
+./plugin/appraven.plugin is in UTF-8 encoding
+./plugin/tpp.plugin is in UTF-8 encoding
+./plugin/Bodian.plugin is in UTF-8 encoding
+./plugin/youtube.plugin is in UTF-8 encoding
+./plugin/varlens.plugin is in UTF-8 encoding
+./plugin/tokcam.plugin is in UTF-8 encoding
+./plugin/aptv.plugin is in UTF-8 encoding
+./plugin/memrise.plugin is in UTF-8 encoding
+./plugin/ptj.plugin is in UTF-8 encoding
+./plugin/ego.plugin is in UTF-8 encoding
+./plugin/vcus.plugin is in UTF-8 encoding
+./plugin/grammarly.plugin is in UTF-8 encoding
+./plugin/nt.plugin is in UTF-8 encoding
+./plugin/colorwidgets.plugin is in UTF-8 encoding
+./plugin/retake.plugin is in UTF-8 encoding
+./plugin/fimo.plugin is in UTF-8 encoding
+./plugin/ddsyxj.plugin is in UTF-8 encoding
+./plugin/zhitiao.plugin is in UTF-8 encoding
+./plugin/zjbj.plugin is in UTF-8 encoding
+./plugin/bili.plugin is in UTF-8 encoding
+./plugin/peiyinxiu.plugin is in UTF-8 encoding
+./plugin/mtywj.plugin is in UTF-8 encoding
+./plugin/smwd.plugin is in UTF-8 encoding
+./plugin/ydcd.plugin is in UTF-8 encoding
+./plugin/caixin.plugin is in UTF-8 encoding
+./plugin/xjsp.plugin is in UTF-8 encoding
+./plugin/zjsg.plugin is in UTF-8 encoding
+./plugin/hyperweb.plugin is in UTF-8 encoding
+./plugin/qifu.plugin is in UTF-8 encoding
+./plugin/lsdyw.plugin is in UTF-8 encoding
+./plugin/NodeLinkCheck.plugin is in UTF-8 encoding
+./plugin/BedtimeFan.plugin is in UTF-8 encoding
+./plugin/polarr.plugin is in UTF-8 encoding
+./plugin/7dong.plugin is in UTF-8 encoding
+./plugin/hbetgs.plugin is in UTF-8 encoding
+./plugin/invideo.plugin is in UTF-8 encoding
+./plugin/wechatread.plugin is in UTF-8 encoding
+./plugin/clarity.plugin is in UTF-8 encoding
+./plugin/cxs.plugin is in UTF-8 encoding
+./plugin/fabulous.plugin is in UTF-8 encoding
+./plugin/meituxx.plugin is in UTF-8 encoding
+./plugin/panda.plugin is in UTF-8 encoding
+./plugin/hyxj.plugin is in UTF-8 encoding
+./plugin/B-Search.plugin is in UTF-8 encoding
+./plugin/vsco.plugin is in UTF-8 encoding
+./plugin/ywqpy.plugin is in UTF-8 encoding
+./plugin/aloha.plugin is in UTF-8 encoding
+./plugin/wsgj.plugin is in UTF-8 encoding
+./plugin/stsq.plugin is in UTF-8 encoding
+./plugin/musixmatch.plugin is in UTF-8 encoding
+./plugin/piccollage.plugin is in UTF-8 encoding
+./plugin/jsgx.plugin is in UTF-8 encoding
+./plugin/flomo.plugin is in UTF-8 encoding
+./plugin/audiomack.plugin is in UTF-8 encoding
+./plugin/cdzs.plugin is in UTF-8 encoding
+./plugin/hbxw.plugin is in UTF-8 encoding
+./plugin/fanqienovel.plugin is in UTF-8 encoding
+./plugin/pocketlists.plugin is in UTF-8 encoding
+./plugin/kepai.plugin is in UTF-8 encoding
+./plugin/wnds.plugin is in UTF-8 encoding
+./plugin/picsart.plugin is in UTF-8 encoding
+./plugin/lightroom.plugin is in UTF-8 encoding
+./plugin/Running-Mode.plugin is in UTF-8 encoding
+./plugin/grow.plugin is in UTF-8 encoding
+./plugin/thunder.plugin is in UTF-8 encoding
+./plugin/boom.plugin is in UTF-8 encoding
+./plugin/Tidal-HiFi.plugin is in UTF-8 encoding
+./plugin/zymk.plugin is in UTF-8 encoding
+./plugin/motivation.plugin is in UTF-8 encoding
+./plugin/emote.plugin is in UTF-8 encoding
+./plugin/lifeviewer.plugin is in UTF-8 encoding
+./plugin/sgsz.plugin is in UTF-8 encoding
+./plugin/ttd.plugin is in UTF-8 encoding
+./plugin/vista.plugin is in UTF-8 encoding
+./plugin/documents.plugin is in UTF-8 encoding
+./plugin/kika.plugin is in UTF-8 encoding
+./plugin/craft.plugin is in UTF-8 encoding
+./plugin/dzqj.plugin is in UTF-8 encoding
+./plugin/mbdt.plugin is in UTF-8 encoding
+./plugin/iam.plugin is in UTF-8 encoding
+./plugin/now.plugin is in UTF-8 encoding
+./plugin/dyd.plugin is in UTF-8 encoding
+./plugin/hyzm.plugin is in UTF-8 encoding
+./plugin/lgzj.plugin is in UTF-8 encoding
+./plugin/WPS.plugin is in UTF-8 encoding
+./plugin/KuwoVip.plugin is in UTF-8 encoding
+./plugin/hyxc.plugin is in UTF-8 encoding
+./plugin/oldroll.plugin is in UTF-8 encoding
+./plugin/BaiduCloud.plugin is in UTF-8 encoding
+./plugin/klx.plugin is in UTF-8 encoding
+./plugin/hzk.plugin is in UTF-8 encoding
+./plugin/arpdfbj.plugin is in UTF-8 encoding
+./plugin/moneythings.plugin is in UTF-8 encoding
+./plugin/mojo.plugin is in UTF-8 encoding
+./plugin/pandora.plugin is in UTF-8 encoding
+./plugin/shadowlinkvpn.plugin is in UTF-8 encoding
+./plugin/prettyup.plugin is in UTF-8 encoding
+./plugin/aqc.plugin is in UTF-8 encoding
+./plugin/dayone.plugin is in UTF-8 encoding
+./plugin/Plugallery.plugin is in UTF-8 encoding
+./plugin/pillow.plugin is in UTF-8 encoding
+./plugin/startingad.plugin is in UTF-8 encoding
+./plugin/gscdq.plugin is in UTF-8 encoding
+./plugin/darkroom.plugin is in UTF-8 encoding
+./plugin/biliad.plugin is in UTF-8 encoding
+./plugin/wscsds.plugin is in UTF-8 encoding
+./plugin/mdmanhua.plugin is in UTF-8 encoding
+./plugin/zhsck.plugin is in UTF-8 encoding
+./plugin/calm.plugin is in UTF-8 encoding
+./plugin/xmlyad.plugin is in UTF-8 encoding
+./plugin/lifeindex.plugin is in UTF-8 encoding
+./plugin/fileball.plugin is in UTF-8 encoding
+./plugin/Price.plugin is in UTF-8 encoding
+./plugin/GeoLocation.plugin is in UTF-8 encoding
+./plugin/yiyan.plugin is in UTF-8 encoding
+./plugin/xmind.plugin is in UTF-8 encoding
+./plugin/yczjz.plugin is in UTF-8 encoding
+./plugin/fantastical.plugin is in UTF-8 encoding
+./plugin/tenpercent.plugin is in UTF-8 encoding
+./plugin/kuwo-unlock.plugin is in UTF-8 encoding
+./plugin/bdwk.plugin is in UTF-8 encoding
+./plugin/fnv.plugin is in UTF-8 encoding
+./plugin/agenda.plugin is in UTF-8 encoding
+./plugin/ppx.plugin is in UTF-8 encoding
+./plugin/yjhl.plugin is in UTF-8 encoding
+./plugin/Emby.plugin is in UTF-8 encoding
+./plugin/peiyin.plugin is in UTF-8 encoding
+./plugin/wallcraft.plugin is in UTF-8 encoding
+./plugin/ly.plugin is in UTF-8 encoding
+./plugin/weiboad.plugin is in UTF-8 encoding
+./plugin/wfw.plugin is in UTF-8 encoding
+./plugin/nybz.plugin is in UTF-8 encoding
+./plugin/cubox.plugin is in UTF-8 encoding
+./plugin/sorted.plugin is in UTF-8 encoding
+./plugin/MediaChecker.plugin is in UTF-8 encoding
+./plugin/xrk.plugin is in UTF-8 encoding
+./plugin/caiyun.plugin is in UTF-8 encoding
+./plugin/sjsmy.plugin is in UTF-8 encoding
+./plugin/drafts.plugin is in UTF-8 encoding
+./plugin/pixiv.plugin is in UTF-8 encoding
+./plugin/lingokids.plugin is in UTF-8 encoding
+./plugin/ft.plugin is in UTF-8 encoding
+./plugin/tangerine.plugin is in UTF-8 encoding
+./plugin/rzxj.plugin is in UTF-8 encoding
+./plugin/egdd.plugin is in UTF-8 encoding
+./plugin/rq.plugin is in UTF-8 encoding
+./plugin/DisableUpdate.plugin is in UTF-8 encoding
+./plugin/myplate.plugin is in UTF-8 encoding
+./plugin/ztc.plugin is in UTF-8 encoding
+./plugin/jibjab.plugin is in UTF-8 encoding
+./plugin/zt.plugin is in UTF-8 encoding
+./plugin/jssmy.plugin is in UTF-8 encoding
+./plugin/dsj.plugin is in UTF-8 encoding
+./plugin/zebra.plugin is in UTF-8 encoding
+./plugin/qmxs.plugin is in UTF-8 encoding
+./plugin/nicegram.plugin is in UTF-8 encoding
+./plugin/sndd.plugin is in UTF-8 encoding
+./plugin/pixelance.plugin is in UTF-8 encoding
+./plugin/faintv.plugin is in UTF-8 encoding
+./plugin/fomz.plugin is in UTF-8 encoding
+./plugin/multisearch.plugin is in UTF-8 encoding
+./plugin/AdBlock.plugin is in UTF-8 encoding
+./plugin/photoshop.plugin is in UTF-8 encoding
+./plugin/xzjhz.plugin is in UTF-8 encoding
+./plugin/widgetsmith.plugin is in UTF-8 encoding
+./plugin/1blocker.plugin is in UTF-8 encoding
+./plugin/ai.plugin is in UTF-8 encoding
+./plugin/collart.plugin is in UTF-8 encoding
+./plugin/wdqd.plugin is in UTF-8 encoding
+./plugin/vivacut.plugin is in UTF-8 encoding
+./plugin/ysyk.plugin is in UTF-8 encoding
+./plugin/bsxm.plugin is in UTF-8 encoding
+./plugin/ilovepdf.plugin is in UTF-8 encoding
+./plugin/hbgc.plugin is in UTF-8 encoding
+./plugin/percento.plugin is in UTF-8 encoding
+./plugin/dalanjing.plugin is in UTF-8 encoding
+./plugin/usage.plugin is in UTF-8 encoding
+./plugin/sc.plugin is in UTF-8 encoding
+./plugin/smallpdf.plugin is in UTF-8 encoding
+./plugin/absqgs.plugin is in UTF-8 encoding
+./plugin/doc.plugin is in UTF-8 encoding
+./plugin/iscreen.plugin is in UTF-8 encoding
+./plugin/accu.plugin is in UTF-8 encoding
+./plugin/ssa.plugin is in UTF-8 encoding
+./plugin/ky.plugin is in UTF-8 encoding
+./plugin/wnbsq.plugin is in UTF-8 encoding
+./plugin/ModeSwitcher.plugin is in UTF-8 encoding
+./plugin/whqsy.plugin is in UTF-8 encoding
+./plugin/b612.plugin is in UTF-8 encoding
+./plugin/smbq.plugin is in UTF-8 encoding
+./plugin/amj.plugin is in UTF-8 encoding
+./plugin/artp.plugin is in UTF-8 encoding
+./plugin/kprj.plugin is in UTF-8 encoding
+./plugin/xzj.plugin is in UTF-8 encoding
+./plugin/molycam.plugin is in UTF-8 encoding
+./plugin/smxcgj.plugin is in UTF-8 encoding
+./plugin/photomath.plugin is in UTF-8 encoding
+./plugin/nfc.plugin is in UTF-8 encoding
+./plugin/mksp.plugin is in UTF-8 encoding
+./plugin/SpotifyPremium.plugin is in UTF-8 encoding
+./plugin/htjzb.plugin is in UTF-8 encoding
+./plugin/mht.plugin is in UTF-8 encoding
+./plugin/pdfviewer.plugin is in UTF-8 encoding
+./plugin/todo.plugin is in UTF-8 encoding
+./plugin/ceo.plugin is in UTF-8 encoding
+./plugin/relens.plugin is in UTF-8 encoding
+./plugin/gzrj.plugin is in UTF-8 encoding
+./plugin/aliyun.plugin is in UTF-8 encoding
+./plugin/wxts.plugin is in UTF-8 encoding
