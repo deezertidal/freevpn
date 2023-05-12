@@ -12,20 +12,25 @@ jobs:
       with:
         repository: deezertidal/deezertidal.github.io
         token: ${{ secrets.PAT }}
-    - name: Install enca
-      run: sudo apt-get update && sudo apt-get install -y enca
+    - name: Install Python and chardet
+      run: sudo apt-get update && sudo apt-get install -y python3-pip && sudo pip3 install chardet
     - name: Check encoding of files
       run: |
         echo "$(date +'%m%d%y%H%M') ..." > report.txt
         for file in $(find . -type f \( -name "*.conf" -o -name "*.plugin" -o -name "*.module" -o -name "*.sgmodule" \)); do
-          encoding=$(enca -L zh $file | awk '{print $NF}')
+          encoding=$(chardet -n $file | awk -F ': ' '{print $2}')
           if [ "$encoding" == "UTF-8" ]; then
             echo "$file is in UTF-8 encoding" >> report.txt
           else
             echo "$file is NOT in UTF-8 encoding" >> report.txt
           fi
         done
-    - name: Upload report to  repository
+    - name: Upload report to repository
+      uses: actions/upload-artifact@v2
+      with:
+        name: report
+        path: report.txt
+    - name: Copy report to img folder in repository
       uses: actions/checkout@v3
       with:
         repository: deezertidal/freevpn
