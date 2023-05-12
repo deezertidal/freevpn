@@ -12,14 +12,17 @@ jobs:
       with:
         repository: deezertidal/deezertidal.github.io
         token: ${{ secrets.PAT }}
-    - name: Install iconv
-      run: sudo apt-get update && sudo apt-get install -y iconv
+    - name: Install Python, pip3, and iconv
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y python3-pip
+        sudo apt-get install -y libc-bin libc-dev-bin libc6 libc6-dev libgcc-s1 libgomp1 libiconv-hook1 libiconv-hook-dev libiconv2
     - name: Check encoding of files
       run: |
         echo "$(date +'%m%d%y%H%M') ..." > report.txt
         for file in $(find . -type f \( -name "*.conf" -o -name "*.plugin" -o -name "*.module" -o -name "*.sgmodule" \)); do
-          encoding=$(iconv -f UTF-8 -t UTF-8 "$file" 2>/dev/null)
-          if [ "$?" -eq "0" ]; then
+          encoding=$(file -bi "$file" | awk -F "=" '{print $2}')
+          if [ "$encoding" == "utf-8" ]; then
             echo "$file is in UTF-8 encoding" >> report.txt
           else
             echo "$file is NOT in UTF-8 encoding" >> report.txt
