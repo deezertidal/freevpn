@@ -12,13 +12,13 @@ jobs:
       with:
         repository: deezertidal/deezertidal.github.io
         token: ${{ secrets.PAT }}
-    - name: Install Python
-      run: sudo apt-get update && sudo apt-get install -y python3
+    - name: Install iconv
+      run: sudo apt-get update && sudo apt-get install -y iconv
     - name: Check encoding of files
       run: |
         echo "$(date +'%m%d%y%H%M') ..." > report.txt
         for file in $(find . -type f \( -name "*.conf" -o -name "*.plugin" -o -name "*.module" -o -name "*.sgmodule" \)); do
-          encoding=$(python3 -c "import codecs; f = codecs.open('$file', 'r', 'utf-8'); f.read();" 2>/dev/null)
+          encoding=$(iconv -f UTF-8 -t UTF-8 "$file" 2>/dev/null)
           if [ "$?" -eq "0" ]; then
             echo "$file is in UTF-8 encoding" >> report.txt
           else
@@ -40,7 +40,7 @@ jobs:
       run: |
         cp report.txt freevpn-repo/img/report.txt
         cd freevpn-repo
-        git config user.name "auto"
+        git config user.name "auto "
         git config user.email "actions@github.com"
         git add img/report.txt
         git commit -m "check files"
