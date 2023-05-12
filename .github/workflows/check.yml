@@ -18,7 +18,7 @@ jobs:
       run: |
         echo "$(date +'%m%d%y%H%M') ..." > report.txt
         for file in $(find . -type f \( -name "*.conf" -o -name "*.plugin" -o -name "*.module" -o -name "*.sgmodule" \)); do
-          encoding=$(enca -L none $file | awk '{print $NF}')
+          encoding=$(enca -L zh $file | awk '{print $NF}')
           if [ "$encoding" == "UTF-8" ]; then
             echo "$file is in UTF-8 encoding" >> report.txt
           else
