@@ -1,0 +1,42 @@
+name: Check encoding
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0-16/4 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        repository: deezertidal/deezertidal.github.io
+        token: ${{ secrets.PAT }}
+    - name: Install enca
+      run: sudo apt-get update && sudo apt-get install -y enca
+    - name: Check encoding of files
+      run: |
+        echo "$(date +'%m%d%y%H%M') ..." > report.txt
+        for file in $(find . -type f \( -name "*.conf" -o -name "*.plugin" -o -name "*.module" -o -name "*.sgmodule" \)); do
+          encoding=$(enca -L none $file | awk '{print $NF}')
+          if [ "$encoding" == "UTF-8" ]; then
+            echo "$file is in UTF-8 encoding" >> report.txt
+          else
+            echo "$file is NOT in UTF-8 encoding" >> report.txt
+          fi
+        done
+    - name: Upload report to  repository
+      uses: actions/checkout@v3
+      with:
+        repository: deezertidal/freevpn
+        token: ${{ secrets.PAT }}
+        path: freevpn-repo
+    - name: Copy report to img folder in repository
+      run: |
+        cp report.txt freevpn-repo/img/report.txt
+        cd freevpn-repo
+        git config user.name "ybnet.ga"
+        git config user.email "actions@github.com"
+        git add img/report.txt
+        git commit -m "check files"
+        git push origin main
