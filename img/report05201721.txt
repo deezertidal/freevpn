@@ -212,7 +212,7 @@ soundcloud.module: UTF-8-SIG
 spotifyVIP.module: UTF-8-SIG
 spotify_lyric.module: UTF-8-SIG
 ssa.module: UTF-8-SIG
-startingad.module: UTF-8-SIG
+startingad.module: utf-8
 stsq.module: UTF-8-SIG
 styleart.module: UTF-8-SIG
 substore.sgmodule: UTF-8-SIG
@@ -507,7 +507,7 @@ sorted.plugin: UTF-8-SIG
 soundcloud.plugin: UTF-8-SIG
 SpotifyPremium.plugin: UTF-8-SIG
 ssa.plugin: UTF-8-SIG
-startingad.plugin: UTF-8-SIG
+startingad.plugin: utf-8
 stsq.plugin: UTF-8-SIG
 styleart.plugin: UTF-8-SIG
 symbolab.plugin: UTF-8-SIG
@@ -788,7 +788,7 @@ sorted.conf: UTF-8-SIG
 soundcloud.conf: UTF-8-SIG
 SpotifyPremium.conf: UTF-8-SIG
 ssa.conf: UTF-8-SIG
-startingad.conf: UTF-8-SIG
+startingad.conf: utf-8
 stsq.conf: UTF-8-SIG
 styleart.conf: UTF-8-SIG
 symbolab.conf: UTF-8-SIG
