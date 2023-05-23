@@ -5,6 +5,7 @@ absqgs.module: UTF-8-SIG
 accu.module: UTF-8-SIG
 AdBlock.module: UTF-8-SIG
 adguard.module: UTF-8-SIG
+adultra.module: utf-8
 agenda.module: UTF-8-SIG
 ai.module: UTF-8-SIG
 alarmy.module: UTF-8-SIG
@@ -296,6 +297,7 @@ absqgs.plugin: UTF-8-SIG
 accu.plugin: UTF-8-SIG
 AdBlock.plugin: UTF-8-SIG
 adguard.plugin: UTF-8-SIG
+adultra.plugin: utf-8
 agenda.plugin: UTF-8-SIG
 ai.plugin: UTF-8-SIG
 alarmy.plugin: UTF-8-SIG
@@ -581,6 +583,7 @@ absqgs.conf: UTF-8-SIG
 accu.conf: UTF-8-SIG
 AdBlock.conf: UTF-8-SIG
 adguard.conf: UTF-8-SIG
+adultra.conf: utf-8
 agenda.conf: UTF-8-SIG
 ai.conf: UTF-8-SIG
 alarmy.conf: UTF-8-SIG
